@@ -1,0 +1,66 @@
+{
+  "user_name": "Ruby",
+  "initial_setup_done": true,
+  "tasks": [
+    {
+      "name": "Social Science Project Tuesday 9/6",
+      "done": false
+    },
+    {
+      "name": "Contour Line Shoe Project Wednesday 9/7",
+      "done": false
+    },
+    {
+      "name": "Capacitive Coupling Research",
+      "done": false
+    },
+    {
+      "name": "Change Code Values",
+      "done": false
+    },
+    {
+      "name": "Theo Reflection Paper",
+      "done": false
+    },
+    {
+      "name": "Theological View of the Body Paper",
+      "done": false
+    },
+    {
+      "name": "Patent Paper",
+      "done": false
+    },
+    {
+      "name": "Make Powerpoint",
+      "done": false
+    },
+    {
+      "name": "Make Github",
+      "done": false
+    },
+    {
+      "name": "Backup .dotfiles",
+      "done": false
+    },
+    {
+      "name": "Translate Notes to Obsidian",
+      "done": false
+    },
+    {
+      "name": "Fix Catch Can",
+      "done": false
+    },
+    {
+      "name": "Submit Timesheet TUESDAY",
+      "done": false
+    },
+    {
+      "name": "Text Papaw and Nate",
+      "done": false
+    }
+  ],
+  "disable_line": false,
+  "disable_quotes": false,
+  "disable_greeting": false,
+  "time_format_24h": true
+}
