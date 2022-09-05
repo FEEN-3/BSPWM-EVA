@@ -1,0 +1,218 @@
+System Info:
+Heroic Version: 2.4.2 Chopper
+Legendary Version:  0.20.28 Dark Energy (hotfix #2)
+OS: EndeavourOS KERNEL: 5.19.6-arch1-1 ARCH: x64
+CPU: AMD Ryzen 7 5800H with Radeon Graphics @3.35 GOVERNOR: schedutil
+RAM: Total: 13.51 GiB Available: 9.47 GiB
+GRAPHICS: GPU0: NVIDIA GeForce RTX 3050 Laptop GPU VRAM: 4096MB DRIVER: 515.65.01 GPU1: Cezanne VRAM: 512MB DRIVER:  
+PROTOCOL: x11
+
+Game Settings: {
+	"autoInstallDxvk": false,
+	"autoInstallVkd3d": false,
+	"preferSystemLibs": false,
+	"enableFSR": true,
+	"maxSharpness": 2,
+	"enableResizableBar": true,
+	"language": "",
+	"nvidiaPrime": true,
+	"enviromentOptions": [],
+	"wrapperOptions": [],
+	"savesPath": "",
+	"showFps": false,
+	"showMangohud": true,
+	"targetExe": "",
+	"useGameMode": true,
+	"winePrefix": "/home/ruby/Games/Heroic/Prefixes/rocketleague",
+	"wineVersion": {
+		"bin": "/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/proton",
+		"name": "Proton - GE-Proton7-31",
+		"type": "proton"
+	},
+	"eacRuntime": false,
+	"battlEyeRuntime": false,
+	"gogSaves": []
+}
+
+Game launched at: Fri Sep 02 2022 20:08:41 GMT-0400 (Eastern Daylight Time)
+
+Launch Command: DRI_PRIME=1 __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia LD_PRELOAD= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/ruby/.steam/steam STEAM_COMPAT_DATA_PATH=/home/ruby/Games/Heroic/Prefixes/rocketleague WINE_FULLSCREEN_FSR=1 WINE_FULLSCREEN_FSR_STRENGTH=2 PROTON_NO_ESYNC=1 PROTON_NO_FSYNC=1 VKD3D_CONFIG=upload_hvv STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-rocketleague PROTON_LOG_DIR=/home/ruby /usr/bin/mangohud --dlsym /usr/bin/gamemoderun /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Sugar --language en  --no-wine --wrapper "'/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/proton' run"
+
+Game Log:
+gamemodeauto: 
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Checking for updates...
+[Core] INFO: Getting authentication token...
+[cli] INFO: Launching Sugar...
+gamemodeauto: 
+gamemodeauto: 
+wineserver: using server-side synchronization.
+wine: RLIMIT_NICE is <= 20, unable to use setpriority safely
+[S_API FAIL] SteamAPI_Init() failed; no appID found.
+Either launch the game from Steam, or put the file steam_appid.txt containing the correct appID in your game folder.
+[2022-09-02 20:08:52.291] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine-explorer.conf' [ not found ]
+[2022-09-02 20:08:52.291] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/files/bin/MangoHud.conf' [ not found ]
+[2022-09-02 20:08:52.291] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-09-02 20:08:52.291] [MANGOHUD] [info] [config.cpp:123] parsing config: '/home/ruby/.config/MangoHud/MangoHud.conf'
+[2022-09-02 20:08:52.304] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine-explorer.conf' [ not found ]
+[2022-09-02 20:08:52.304] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/files/bin/MangoHud.conf' [ not found ]
+[2022-09-02 20:08:52.304] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-09-02 20:08:52.304] [MANGOHUD] [info] [config.cpp:123] parsing config: '/home/ruby/.config/MangoHud/MangoHud.conf'
+[2022-09-02 20:08:52.481] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine-explorer.conf' [ not found ]
+[2022-09-02 20:08:52.481] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/files/bin/MangoHud.conf' [ not found ]
+[2022-09-02 20:08:52.481] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-09-02 20:08:52.481] [MANGOHUD] [info] [config.cpp:123] parsing config: '/home/ruby/.config/MangoHud/MangoHud.conf'
+[2022-09-02 20:08:52.496] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine-explorer.conf' [ not found ]
+[2022-09-02 20:08:52.496] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/files/bin/MangoHud.conf' [ not found ]
+[2022-09-02 20:08:52.496] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-09-02 20:08:52.496] [MANGOHUD] [info] [config.cpp:123] parsing config: '/home/ruby/.config/MangoHud/MangoHud.conf'
+[2022-09-02 20:08:52.657] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine-explorer.conf' [ not found ]
+[2022-09-02 20:08:52.657] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/files/bin/MangoHud.conf' [ not found ]
+[2022-09-02 20:08:52.657] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-09-02 20:08:52.657] [MANGOHUD] [info] [config.cpp:123] parsing config: '/home/ruby/.config/MangoHud/MangoHud.conf'
+[2022-09-02 20:08:52.693] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine-explorer.conf' [ not found ]
+[2022-09-02 20:08:52.693] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/files/bin/MangoHud.conf' [ not found ]
+[2022-09-02 20:08:52.693] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-09-02 20:08:52.693] [MANGOHUD] [info] [config.cpp:123] parsing config: '/home/ruby/.config/MangoHud/MangoHud.conf'
+[2022-09-02 20:08:53.724] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine-RocketLeague.conf' [ not found ]
+[2022-09-02 20:08:53.724] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/files/bin/MangoHud.conf' [ not found ]
+[2022-09-02 20:08:53.724] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-09-02 20:08:53.724] [MANGOHUD] [info] [config.cpp:123] parsing config: '/home/ruby/.config/MangoHud/MangoHud.conf'
+[2022-09-02 20:08:53.842] [MANGOHUD] [info] [overlay.cpp:768] Uploading is disabled (permit_upload = 0)
+[2022-09-02 20:08:54.006] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine-RocketLeague.conf' [ not found ]
+[2022-09-02 20:08:54.006] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/files/bin/MangoHud.conf' [ not found ]
+[2022-09-02 20:08:54.006] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-09-02 20:08:54.006] [MANGOHUD] [info] [config.cpp:123] parsing config: '/home/ruby/.config/MangoHud/MangoHud.conf'
+[2022-09-02 20:08:58.609] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine-RocketLeague.conf' [ not found ]
+[2022-09-02 20:08:58.609] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/files/bin/MangoHud.conf' [ not found ]
+[2022-09-02 20:08:58.609] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-09-02 20:08:58.609] [MANGOHUD] [info] [config.cpp:123] parsing config: '/home/ruby/.config/MangoHud/MangoHud.conf'
+[2022-09-02 20:08:58.813] [MANGOHUD] [info] [overlay.cpp:768] Uploading is disabled (permit_upload = 0)
+wine: Read access denied for device L"\\??\\Z:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\Z:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\Z:\\", FS volume label and serial are not available.
+[2022-09-02 20:08:58.965] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine-RocketLeague.conf' [ not found ]
+[2022-09-02 20:08:58.965] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/files/bin/MangoHud.conf' [ not found ]
+[2022-09-02 20:08:58.965] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-09-02 20:08:58.965] [MANGOHUD] [info] [config.cpp:123] parsing config: '/home/ruby/.config/MangoHud/MangoHud.conf'
+[2022-09-02 20:09:01.034] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine-RocketLeague.conf' [ not found ]
+[2022-09-02 20:09:01.034] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/files/bin/MangoHud.conf' [ not found ]
+[2022-09-02 20:09:01.034] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-09-02 20:09:01.034] [MANGOHUD] [info] [config.cpp:123] parsing config: '/home/ruby/.config/MangoHud/MangoHud.conf'
+Error, FSaveDataImportTask: '..\..\TAGame\SaveDataEpic\DBE_Production\beb7c3d771a64d14acc6d0f31931caf4.save' no files found
+*** WARNING - PATHS MAY NOT BE VALID ***
+WebRequest_X_15 type: HTTPError, message: 
+ScriptWarning, Accessed None 'Actor'
+	OnlinePlayerMTX_TA Transient.GameEngine_TA_0:LocalPlayer_TA_0.OnlinePlayer_TA_0.OnlinePlayerMTX_TA_0
+	Function TAGame.OnlinePlayerMTX_TA:HandleClaimSuccess:0171
+Script call stack:
+	Function ProjectX.RPC_X:OnSuccess
+	Function TAGame.OnlinePlayerMTX_TA:HandleClaimSuccess
+
+ScriptWarning, Accessed None 'SaveData'
+	OnlinePlayerMTX_TA Transient.GameEngine_TA_0:LocalPlayer_TA_0.OnlinePlayer_TA_0.OnlinePlayerMTX_TA_0
+	Function TAGame.OnlinePlayerMTX_TA:HandleClaimSuccess:01A9
+Script call stack:
+	Function ProjectX.RPC_X:OnSuccess
+	Function TAGame.OnlinePlayerMTX_TA:HandleClaimSuccess
+
+ScriptWarning, Accessed None
+	OnlinePlayerMTX_TA Transient.GameEngine_TA_0:LocalPlayer_TA_0.OnlinePlayer_TA_0.OnlinePlayerMTX_TA_0
+	Function TAGame.OnlinePlayerMTX_TA:HandleClaimSuccess:01BD
+Script call stack:
+	Function ProjectX.RPC_X:OnSuccess
+	Function TAGame.OnlinePlayerMTX_TA:HandleClaimSuccess
+
+[2022-09-02 20:11:08.642] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine-RocketLeague.conf' [ not found ]
+[2022-09-02 20:11:08.642] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/files/bin/MangoHud.conf' [ not found ]
+[2022-09-02 20:11:08.642] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-09-02 20:11:08.642] [MANGOHUD] [info] [config.cpp:123] parsing config: '/home/ruby/.config/MangoHud/MangoHud.conf'
+[2022-09-02 20:11:08.805] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine-RocketLeague.conf' [ not found ]
+[2022-09-02 20:11:08.805] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/files/bin/MangoHud.conf' [ not found ]
+[2022-09-02 20:11:08.805] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-09-02 20:11:08.805] [MANGOHUD] [info] [config.cpp:123] parsing config: '/home/ruby/.config/MangoHud/MangoHud.conf'
+[2022-09-02 20:11:08.966] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine-RocketLeague.conf' [ not found ]
+[2022-09-02 20:11:08.966] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/files/bin/MangoHud.conf' [ not found ]
+[2022-09-02 20:11:08.966] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-09-02 20:11:08.966] [MANGOHUD] [info] [config.cpp:123] parsing config: '/home/ruby/.config/MangoHud/MangoHud.conf'
+[2022-09-02 20:11:23.974] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine-RocketLeague.conf' [ not found ]
+[2022-09-02 20:11:23.974] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/files/bin/MangoHud.conf' [ not found ]
+[2022-09-02 20:11:23.974] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-09-02 20:11:23.974] [MANGOHUD] [info] [config.cpp:123] parsing config: '/home/ruby/.config/MangoHud/MangoHud.conf'
+[2022-09-02 20:11:24.132] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine-RocketLeague.conf' [ not found ]
+[2022-09-02 20:11:24.132] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/files/bin/MangoHud.conf' [ not found ]
+[2022-09-02 20:11:24.132] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-09-02 20:11:24.132] [MANGOHUD] [info] [config.cpp:123] parsing config: '/home/ruby/.config/MangoHud/MangoHud.conf'
+[2022-09-02 20:11:24.289] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine-RocketLeague.conf' [ not found ]
+[2022-09-02 20:11:24.289] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/files/bin/MangoHud.conf' [ not found ]
+[2022-09-02 20:11:24.289] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-09-02 20:11:24.289] [MANGOHUD] [info] [config.cpp:123] parsing config: '/home/ruby/.config/MangoHud/MangoHud.conf'
+[2022-09-02 20:11:24.478] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine-RocketLeague.conf' [ not found ]
+[2022-09-02 20:11:24.478] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/files/bin/MangoHud.conf' [ not found ]
+[2022-09-02 20:11:24.478] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-09-02 20:11:24.478] [MANGOHUD] [info] [config.cpp:123] parsing config: '/home/ruby/.config/MangoHud/MangoHud.conf'
+[2022-09-02 20:11:24.635] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine-RocketLeague.conf' [ not found ]
+[2022-09-02 20:11:24.635] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/files/bin/MangoHud.conf' [ not found ]
+[2022-09-02 20:11:24.635] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-09-02 20:11:24.635] [MANGOHUD] [info] [config.cpp:123] parsing config: '/home/ruby/.config/MangoHud/MangoHud.conf'
+[2022-09-02 20:11:24.791] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine-RocketLeague.conf' [ not found ]
+[2022-09-02 20:11:24.791] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/files/bin/MangoHud.conf' [ not found ]
+[2022-09-02 20:11:24.791] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-09-02 20:11:24.791] [MANGOHUD] [info] [config.cpp:123] parsing config: '/home/ruby/.config/MangoHud/MangoHud.conf'
+FUniqueNetId::FromString - could not parse 'Bot_Chipper'
+FUniqueNetId::FromString - could not parse 'Bot_Beast'
+FUniqueNetId::FromString - could not parse 'Bot_Dude'
+FUniqueNetId::FromString - could not parse 'Bot_Junker'
+FUniqueNetId::FromString - could not parse 'Bot_Sundown'
+*** WARNING - PATHS MAY NOT BE VALID ***
+ScriptWarning, Something went wrong uploading save data beb7c3d771a64d14acc6d0f31931caf4 RLSaveData
+	EOSOnlineStorageUploader_TA Transient.SaveData_TA_1:EOSOnlineStorageUploader_TA_0
+	Function TAGame.EOSOnlineStorageUploader_TA:UploadSaveData:077E
+Script call stack:
+	Function TAGame.__StatusTriggerManager_TA__RegisterTriggers_0x1:__StatusTriggerManager_TA__RegisterTriggers_0x1
+	Function TAGame.StatusTriggerManager_TA:CheckModifiedCondition
+	Function TAGame.__CrumbTrails_TA__SetupActivationCondition_0x1:__CrumbTrails_TA__SetupActivationCondition_0x2
+	Function TAGame.CrumbTrails_TA:ActivateTrail
+	Function TAGame.CrumbTrailSave_TA:SetTrailActive
+	Function TAGame.SaveObject_TA:SetDirty
+	Function TAGame.SaveData_TA:HandleSaveObjectDirty
+	Function TAGame.SaveData_TA:SetOnlineDirty
+	Function TAGame.EOSOnlineStorageUploader_TA:UploadSaveData
+
+ScriptWarning, Something went wrong uploading save data beb7c3d771a64d14acc6d0f31931caf4 RLSaveData
+	EOSOnlineStorageUploader_TA Transient.SaveData_TA_1:EOSOnlineStorageUploader_TA_0
+	Function TAGame.EOSOnlineStorageUploader_TA:UploadSaveData:077E
+Script call stack:
+	Function TAGame.__StatusTriggerManager_TA__RegisterTriggers_0x1:__StatusTriggerManager_TA__RegisterTriggers_0x1
+	Function TAGame.StatusTriggerManager_TA:CheckModifiedCondition
+	Function TAGame.__CrumbTrails_TA__SetupCompletionCondition_0x1:__CrumbTrails_TA__SetupCompletionCondition_0x1
+	Function TAGame.CrumbTrails_TA:HandleTrailComplete
+	Function TAGame.CrumbTrailSave_TA:CompleteTrail
+	Function TAGame.SaveObject_TA:SetDirty
+	Function TAGame.SaveData_TA:HandleSaveObjectDirty
+	Function TAGame.SaveData_TA:SetOnlineDirty
+	Function TAGame.EOSOnlineStorageUploader_TA:UploadSaveData
+
+ScriptWarning, Something went wrong uploading save data beb7c3d771a64d14acc6d0f31931caf4 RLSaveData
+	EOSOnlineStorageUploader_TA Transient.SaveData_TA_1:EOSOnlineStorageUploader_TA_0
+	Function TAGame.EOSOnlineStorageUploader_TA:UploadSaveData:077E
+Script call stack:
+	Function TAGame.GFxData_MenuStack_TA:PushMenu
+	Function TAGame.GFxShell_TA:HandleTopMenuChange
+	Function TAGame.SaveData_TA:UploadSaveData
+	Function TAGame.EOSOnlineStorageUploader_TA:UploadSaveData
+
+[2022-09-02 20:16:37.834] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine-RocketLeague.conf' [ not found ]
+[2022-09-02 20:16:37.834] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/files/bin/MangoHud.conf' [ not found ]
+[2022-09-02 20:16:37.834] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-09-02 20:16:37.834] [MANGOHUD] [info] [config.cpp:123] parsing config: '/home/ruby/.config/MangoHud/MangoHud.conf'
+[2022-09-02 20:16:38.015] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine-RocketLeague.conf' [ not found ]
+[2022-09-02 20:16:38.015] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/files/bin/MangoHud.conf' [ not found ]
+[2022-09-02 20:16:38.015] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-09-02 20:16:38.015] [MANGOHUD] [info] [config.cpp:123] parsing config: '/home/ruby/.config/MangoHud/MangoHud.conf'
+[2022-09-02 20:16:38.173] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine-RocketLeague.conf' [ not found ]
+[2022-09-02 20:16:38.173] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/files/bin/MangoHud.conf' [ not found ]
+[2022-09-02 20:16:38.173] [MANGOHUD] [info] [config.cpp:118] skipping config: '/home/ruby/.config/MangoHud/wine64-preloader.conf' [ not found ]
+[2022-09-02 20:16:38.173] [MANGOHUD] [info] [config.cpp:123] parsing config: '/home/ruby/.config/MangoHud/MangoHud.conf'
+gamemodeauto: 

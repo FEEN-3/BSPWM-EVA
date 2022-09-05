@@ -1,0 +1,35 @@
+{
+  "Windows": [
+    {
+      "app_name": "Sugar",
+      "asset_id": "Sugar",
+      "build_version": "BC2_Update38.1+388434",
+      "catalog_item_id": "530145df28a24424923f5828cc9031a1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "9773aa1aa54f4f7b80e44bef04986cea"
+    },
+    {
+      "app_name": "Catnip",
+      "asset_id": "Catnip",
+      "build_version": "1.0.23_CL_2860060_Borderlands_3",
+      "catalog_item_id": "5cf86732e2744fec98a1c8a077d9f3a8",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "4038efbb2b6d4f43b191cd1782f53076"
+      },
+      "namespace": "catnip"
+    },
+    {
+      "app_name": "Fortnite",
+      "asset_id": "Fortnite",
+      "build_version": "++Fortnite+Release-21.50-CL-21657658-Windows",
+      "catalog_item_id": "4fe75bbc5a674f4f9b356b5c90567da5",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "FortniteInstallationPool"
+      },
+      "namespace": "fn"
+    }
+  ]
+}

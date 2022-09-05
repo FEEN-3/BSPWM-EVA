@@ -1,0 +1,40 @@
+{
+  "defaultSettings": {
+    "altLegendaryBin": "",
+    "altGogdlBin": "",
+    "addDesktopShortcuts": false,
+    "addStartMenuShortcuts": false,
+    "autoInstallDxvk": false,
+    "autoInstallVkd3d": false,
+    "preferSystemLibs": false,
+    "customWinePaths": [],
+    "checkForUpdatesOnStartup": true,
+    "defaultInstallPath": "/home/ruby/Games/Heroic",
+    "defaultSteamPath": "/home/ruby/.steam/steam",
+    "defaultWinePrefix": "/home/ruby/Games/Heroic/Prefixes",
+    "disableController": false,
+    "egsLinkedPath": "",
+    "maxRecentGames": 5,
+    "maxWorkers": 0,
+    "minimizeOnLaunch": false,
+    "nvidiaPrime": true,
+    "enviromentOptions": [],
+    "wrapperOptions": [],
+    "showFps": false,
+    "showMangohud": true,
+    "showUnrealMarket": false,
+    "useGameMode": true,
+    "wineCrossoverBottle": "Heroic",
+    "winePrefix": "/home/ruby/.wine",
+    "wineVersion": {
+      "bin": "/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/proton",
+      "name": "Proton - GE-Proton7-31",
+      "type": "proton"
+    },
+    "enableFSR": true,
+    "enableResizableBar": true,
+    "eacRuntime": false,
+    "battlEyeRuntime": false
+  },
+  "version": "v0"
+}

@@ -1,0 +1,41 @@
+{
+	"Sugar": {
+		"game": {
+			"app_name": "Sugar",
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"cloud_saves_supported": false,
+			"external_activation": null,
+			"is_dlc": false,
+			"launch_options": [],
+			"owned_dlc": [],
+			"platform_versions": {
+				"Windows": "BC2_Update38.1+388434"
+			},
+			"title": "Rocket League®",
+			"version": "BC2_Update38.1+388434"
+		},
+		"install": null,
+		"manifest": {
+			"app_name": "SugarStaging",
+			"build_id": "OBMOmt5jwBOjrEKB2698ScoCCKg",
+			"build_version": "BC2_Update38.1+388434",
+			"disk_size": 24491758888,
+			"download_size": 20810283669,
+			"feature_level": 17,
+			"install_tags": [
+				""
+			],
+			"launch_command": "",
+			"launch_exe": "Binaries/Win64/RocketLeague.exe",
+			"num_chunks": 20256,
+			"num_files": 10962,
+			"prerequisites": null,
+			"size": 1766929,
+			"tag_disk_size": [],
+			"tag_download_size": [],
+			"type": "binary",
+			"version": 17
+		}
+	}
+}

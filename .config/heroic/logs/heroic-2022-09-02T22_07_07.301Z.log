@@ -1,0 +1,26 @@
+(18:07:07) INFO:    [Legendary]:       Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(18:07:08) INFO:    [Legendary]:       Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(18:07:08) INFO:    [Gog]:             GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(18:07:08) INFO:    [Backend]:         
+
+Heroic Version: 2.4.2 Chopper
+Legendary Version:  0.20.28 Dark Energy (hotfix #2)
+OS: EndeavourOS KERNEL: 5.19.6-arch1-1 ARCH: x64
+CPU: AMD Ryzen 7 5800H with Radeon Graphics @3.28 GOVERNOR: schedutil
+RAM: Total: 13.51 GiB Available: 10.44 GiB
+GRAPHICS: GPU0: NVIDIA GeForce RTX 3050 Laptop GPU VRAM: 4096MB DRIVER: 515.65.01 GPU1: Cezanne VRAM: 512MB DRIVER:  
+PROTOCOL: x11
+
+(18:07:08) INFO:    [Backend]:         User Not Found, removing it from Store
+(18:07:08) WARNING: [Backend]:         Protocol already registered.
+(18:07:09) INFO:    [Backend]:         AreWeAntiCheatYet data downloaded
+(18:07:09) INFO:    [Backend]:         Checking for new Heroic Updates
+(18:07:11) INFO:    [DXVKInstaller]:   Updating dxvk to: dxvk-1.10.3
+(18:07:11) INFO:    [Backend]:         Downloaded Winetricks
+(18:07:12) INFO:    [DXVKInstaller]:   Updating vkd3d to: vkd3d-proton-2.6
+(18:07:12) INFO:    [DXVKInstaller]:   downloaded dxvk
+(18:07:12) INFO:    [DXVKInstaller]:   extracting dxvk
+(18:07:13) INFO:    [DXVKInstaller]:   extracting dxvk updated!
+(18:07:13) INFO:    [DXVKInstaller]:   downloaded vkd3d
+(18:07:13) INFO:    [DXVKInstaller]:   extracting vkd3d
+(18:07:13) INFO:    [DXVKInstaller]:   extracting vkd3d updated!

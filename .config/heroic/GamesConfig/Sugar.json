@@ -1,0 +1,30 @@
+{
+  "Sugar": {
+    "autoInstallDxvk": false,
+    "autoInstallVkd3d": false,
+    "preferSystemLibs": false,
+    "enableFSR": true,
+    "maxSharpness": 2,
+    "enableResizableBar": true,
+    "language": "",
+    "nvidiaPrime": true,
+    "enviromentOptions": [],
+    "wrapperOptions": [],
+    "savesPath": "",
+    "showFps": false,
+    "showMangohud": true,
+    "targetExe": "",
+    "useGameMode": true,
+    "winePrefix": "/home/ruby/Games/Heroic/Prefixes/rocketleague",
+    "wineVersion": {
+      "bin": "/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/proton",
+      "name": "Proton - GE-Proton7-31",
+      "type": "proton"
+    },
+    "eacRuntime": false,
+    "battlEyeRuntime": false,
+    "gogSaves": []
+  },
+  "version": "v0",
+  "explicit": true
+}

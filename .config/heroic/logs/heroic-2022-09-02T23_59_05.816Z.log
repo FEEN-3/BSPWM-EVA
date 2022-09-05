@@ -1,0 +1,328 @@
+(19:59:05) INFO:    [Legendary]:       Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(19:59:07) INFO:    [Legendary]:       Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(19:59:07) INFO:    [Gog]:             GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(19:59:07) INFO:    [Backend]:         
+
+Heroic Version: 2.4.2 Chopper
+Legendary Version:  0.20.28 Dark Energy (hotfix #2)
+OS: EndeavourOS KERNEL: 5.19.6-arch1-1 ARCH: x64
+CPU: AMD Ryzen 7 5800H with Radeon Graphics @1.96 GOVERNOR: schedutil
+RAM: Total: 13.51 GiB Available: 10.26 GiB
+GRAPHICS: GPU0: NVIDIA GeForce RTX 3050 Laptop GPU VRAM: 4096MB DRIVER: 515.65.01 GPU1: Cezanne VRAM: 512MB DRIVER:  
+PROTOCOL: x11
+
+(19:59:07) INFO:    [Backend]:         User Not Found, removing it from Store
+(19:59:07) WARNING: [Backend]:         Protocol already registered.
+(19:59:08) INFO:    [Backend]:         Checking for new Heroic Updates
+(19:59:10) INFO:    [Backend]:         Downloaded Winetricks
+(19:59:12) INFO:    [Backend]:         AreWeAntiCheatYet data downloaded
+(20:01:31) INFO:    [Legendary]:       Logging in with Legendary.
+(20:01:31) INFO:    [Legendary]:       Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(20:01:31) INFO:    [Legendary]:       Logging in with Legendary.
+(20:01:31) INFO:    [Legendary]:       Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(20:01:31) INFO:    [Legendary]:       Logging in with Legendary.
+(20:01:31) INFO:    [Legendary]:       Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(20:01:31) INFO:    [Legendary]:       Logging in with Legendary.
+(20:01:31) INFO:    [Legendary]:       Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(20:01:31) INFO:    [Legendary]:       Logging in with Legendary.
+(20:01:31) INFO:    [Legendary]:       Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(20:01:31) INFO:    [Legendary]:       Logging in with Legendary.
+(20:01:31) INFO:    [Legendary]:       Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(20:01:31) INFO:    [Legendary]:       Logging in with Legendary.
+(20:01:31) INFO:    [Legendary]:       Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(20:01:31) INFO:    [Legendary]:       Logging in with Legendary.
+(20:01:31) INFO:    [Legendary]:       Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(20:01:31) INFO:    [Legendary]:       Logging in with Legendary.
+(20:01:31) INFO:    [Legendary]:       Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(20:01:32) INFO:    [Frontend]:        Refreshing Library
+(20:01:32) INFO:    [Legendary]:       Refreshing library...
+(20:01:32) INFO:    [Legendary]:       Refreshing Epic Games...
+(20:01:32) INFO:    [Legendary]:       Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list
+(20:01:33) INFO:    [Legendary]:       Updating game list
+(20:01:33) INFO:    [Legendary]:       Game List Updated
+(20:01:33) INFO:    [Frontend]:        No cache found, getting data from legendary...
+(20:01:33) INFO:    [Legendary]:       Refreshing library...
+(20:01:33) INFO:    [Legendary]:       Updating game list
+(20:01:33) INFO:    [Legendary]:       Game List Updated
+(20:01:34) INFO:    [Legendary]:       Checking for game updates.
+(20:01:34) INFO:    [Legendary]:       Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list-installed --check-updates --tsv
+(20:01:34) INFO:    [Legendary]:       Found 0 game(s) to update
+(20:01:34) INFO:    [Frontend]:        Force Update
+(20:01:56) INFO:    [Backend]:         Writing config for Heroic
+(20:01:56) INFO:    [Backend]:         {
+  "altLegendaryBin": "",
+  "altGogdlBin": "",
+  "addDesktopShortcuts": false,
+  "addStartMenuShortcuts": false,
+  "autoInstallDxvk": false,
+  "autoInstallVkd3d": false,
+  "preferSystemLibs": false,
+  "customWinePaths": [],
+  "checkForUpdatesOnStartup": true,
+  "defaultInstallPath": "/home/ruby/Games/Heroic",
+  "defaultSteamPath": "/home/ruby/.steam/steam",
+  "defaultWinePrefix": "/home/ruby/Games/Heroic/Prefixes",
+  "disableController": false,
+  "egsLinkedPath": "",
+  "maxRecentGames": 5,
+  "maxWorkers": 0,
+  "minimizeOnLaunch": false,
+  "nvidiaPrime": false,
+  "enviromentOptions": [],
+  "wrapperOptions": [],
+  "showFps": false,
+  "showUnrealMarket": false,
+  "useGameMode": false,
+  "wineCrossoverBottle": "Heroic",
+  "winePrefix": "/home/ruby/.wine",
+  "wineVersion": {
+    "bin": "/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/proton",
+    "name": "Proton - GE-Proton7-31",
+    "type": "proton"
+  },
+  "eacRuntime": false,
+  "battlEyeRuntime": false
+}
+(20:02:06) INFO:    [Backend]:         Writing config for Heroic
+(20:02:06) INFO:    [Backend]:         {
+  "altLegendaryBin": "",
+  "altGogdlBin": "",
+  "addDesktopShortcuts": false,
+  "addStartMenuShortcuts": false,
+  "autoInstallDxvk": false,
+  "autoInstallVkd3d": false,
+  "preferSystemLibs": false,
+  "customWinePaths": [],
+  "checkForUpdatesOnStartup": true,
+  "defaultInstallPath": "/home/ruby/Games/Heroic",
+  "defaultSteamPath": "/home/ruby/.steam/steam",
+  "defaultWinePrefix": "/home/ruby/Games/Heroic/Prefixes",
+  "disableController": false,
+  "egsLinkedPath": "",
+  "maxRecentGames": 5,
+  "maxWorkers": 0,
+  "minimizeOnLaunch": false,
+  "nvidiaPrime": false,
+  "enviromentOptions": [],
+  "wrapperOptions": [],
+  "showFps": false,
+  "showUnrealMarket": false,
+  "useGameMode": false,
+  "wineCrossoverBottle": "Heroic",
+  "winePrefix": "/home/ruby/.wine",
+  "wineVersion": {
+    "bin": "/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/proton",
+    "name": "Proton - GE-Proton7-31",
+    "type": "proton"
+  },
+  "enableFSR": true,
+  "eacRuntime": false,
+  "battlEyeRuntime": false
+}
+(20:02:10) INFO:    [Backend]:         Writing config for Heroic
+(20:02:10) INFO:    [Backend]:         {
+  "altLegendaryBin": "",
+  "altGogdlBin": "",
+  "addDesktopShortcuts": false,
+  "addStartMenuShortcuts": false,
+  "autoInstallDxvk": false,
+  "autoInstallVkd3d": false,
+  "preferSystemLibs": false,
+  "customWinePaths": [],
+  "checkForUpdatesOnStartup": true,
+  "defaultInstallPath": "/home/ruby/Games/Heroic",
+  "defaultSteamPath": "/home/ruby/.steam/steam",
+  "defaultWinePrefix": "/home/ruby/Games/Heroic/Prefixes",
+  "disableController": false,
+  "egsLinkedPath": "",
+  "maxRecentGames": 5,
+  "maxWorkers": 0,
+  "minimizeOnLaunch": false,
+  "nvidiaPrime": false,
+  "enviromentOptions": [],
+  "wrapperOptions": [],
+  "showFps": false,
+  "showUnrealMarket": false,
+  "useGameMode": false,
+  "wineCrossoverBottle": "Heroic",
+  "winePrefix": "/home/ruby/.wine",
+  "wineVersion": {
+    "bin": "/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/proton",
+    "name": "Proton - GE-Proton7-31",
+    "type": "proton"
+  },
+  "enableFSR": true,
+  "enableResizableBar": true,
+  "eacRuntime": false,
+  "battlEyeRuntime": false
+}
+(20:02:32) INFO:    [Backend]:         Writing config for Heroic
+(20:02:32) INFO:    [Backend]:         {
+  "altLegendaryBin": "",
+  "altGogdlBin": "",
+  "addDesktopShortcuts": false,
+  "addStartMenuShortcuts": false,
+  "autoInstallDxvk": false,
+  "autoInstallVkd3d": false,
+  "preferSystemLibs": false,
+  "customWinePaths": [],
+  "checkForUpdatesOnStartup": true,
+  "defaultInstallPath": "/home/ruby/Games/Heroic",
+  "defaultSteamPath": "/home/ruby/.steam/steam",
+  "defaultWinePrefix": "/home/ruby/Games/Heroic/Prefixes",
+  "disableController": false,
+  "egsLinkedPath": "",
+  "maxRecentGames": 5,
+  "maxWorkers": 0,
+  "minimizeOnLaunch": false,
+  "nvidiaPrime": true,
+  "enviromentOptions": [],
+  "wrapperOptions": [],
+  "showFps": false,
+  "showUnrealMarket": false,
+  "useGameMode": false,
+  "wineCrossoverBottle": "Heroic",
+  "winePrefix": "/home/ruby/.wine",
+  "wineVersion": {
+    "bin": "/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/proton",
+    "name": "Proton - GE-Proton7-31",
+    "type": "proton"
+  },
+  "enableFSR": true,
+  "enableResizableBar": true,
+  "eacRuntime": false,
+  "battlEyeRuntime": false
+}
+(20:02:35) INFO:    [Backend]:         Writing config for Heroic
+(20:02:35) INFO:    [Backend]:         {
+  "altLegendaryBin": "",
+  "altGogdlBin": "",
+  "addDesktopShortcuts": false,
+  "addStartMenuShortcuts": false,
+  "autoInstallDxvk": false,
+  "autoInstallVkd3d": false,
+  "preferSystemLibs": false,
+  "customWinePaths": [],
+  "checkForUpdatesOnStartup": true,
+  "defaultInstallPath": "/home/ruby/Games/Heroic",
+  "defaultSteamPath": "/home/ruby/.steam/steam",
+  "defaultWinePrefix": "/home/ruby/Games/Heroic/Prefixes",
+  "disableController": false,
+  "egsLinkedPath": "",
+  "maxRecentGames": 5,
+  "maxWorkers": 0,
+  "minimizeOnLaunch": false,
+  "nvidiaPrime": true,
+  "enviromentOptions": [],
+  "wrapperOptions": [],
+  "showFps": false,
+  "showMangohud": true,
+  "showUnrealMarket": false,
+  "useGameMode": false,
+  "wineCrossoverBottle": "Heroic",
+  "winePrefix": "/home/ruby/.wine",
+  "wineVersion": {
+    "bin": "/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/proton",
+    "name": "Proton - GE-Proton7-31",
+    "type": "proton"
+  },
+  "enableFSR": true,
+  "enableResizableBar": true,
+  "eacRuntime": false,
+  "battlEyeRuntime": false
+}
+(20:02:43) INFO:    [Legendary]:       Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(20:02:43) INFO:    [Gog]:             Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --version
+(20:02:46) INFO:    [Frontend]:        Refreshing wine downloader releases
+(20:02:46) INFO:    [WineDownloader]:  Updating wine versions info
+(20:02:46) INFO:    [WineDownloader]:  Fetching upstream information...
+(20:02:50) INFO:    [WineDownloader]:  wine versions updated
+(20:02:51) INFO:    [Backend]:         Writing config for Heroic
+(20:02:51) INFO:    [Backend]:         {
+  "altLegendaryBin": "",
+  "altGogdlBin": "",
+  "addDesktopShortcuts": false,
+  "addStartMenuShortcuts": false,
+  "autoInstallDxvk": false,
+  "autoInstallVkd3d": false,
+  "preferSystemLibs": false,
+  "customWinePaths": [],
+  "checkForUpdatesOnStartup": true,
+  "defaultInstallPath": "/home/ruby/Games/Heroic",
+  "defaultSteamPath": "/home/ruby/.steam/steam",
+  "defaultWinePrefix": "/home/ruby/Games/Heroic/Prefixes",
+  "disableController": false,
+  "egsLinkedPath": "",
+  "maxRecentGames": 5,
+  "maxWorkers": 0,
+  "minimizeOnLaunch": false,
+  "nvidiaPrime": true,
+  "enviromentOptions": [],
+  "wrapperOptions": [],
+  "showFps": false,
+  "showMangohud": true,
+  "showUnrealMarket": false,
+  "useGameMode": false,
+  "wineCrossoverBottle": "Heroic",
+  "winePrefix": "/home/ruby/.wine",
+  "wineVersion": {
+    "bin": "/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/proton",
+    "name": "Proton - GE-Proton7-31",
+    "type": "proton"
+  },
+  "enableFSR": true,
+  "enableResizableBar": true,
+  "eacRuntime": false,
+  "battlEyeRuntime": false
+}
+(20:03:26) INFO:    [Backend]:         Writing config for Heroic
+(20:03:26) INFO:    [Backend]:         {
+  "altLegendaryBin": "",
+  "altGogdlBin": "",
+  "addDesktopShortcuts": false,
+  "addStartMenuShortcuts": false,
+  "autoInstallDxvk": false,
+  "autoInstallVkd3d": false,
+  "preferSystemLibs": false,
+  "customWinePaths": [],
+  "checkForUpdatesOnStartup": true,
+  "defaultInstallPath": "/home/ruby/Games/Heroic",
+  "defaultSteamPath": "/home/ruby/.steam/steam",
+  "defaultWinePrefix": "/home/ruby/Games/Heroic/Prefixes",
+  "disableController": false,
+  "egsLinkedPath": "",
+  "maxRecentGames": 5,
+  "maxWorkers": 0,
+  "minimizeOnLaunch": false,
+  "nvidiaPrime": true,
+  "enviromentOptions": [],
+  "wrapperOptions": [],
+  "showFps": false,
+  "showMangohud": true,
+  "showUnrealMarket": false,
+  "useGameMode": true,
+  "wineCrossoverBottle": "Heroic",
+  "winePrefix": "/home/ruby/.wine",
+  "wineVersion": {
+    "bin": "/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/proton",
+    "name": "Proton - GE-Proton7-31",
+    "type": "proton"
+  },
+  "enableFSR": true,
+  "enableResizableBar": true,
+  "eacRuntime": false,
+  "battlEyeRuntime": false
+}
+(20:03:29) INFO:    [Frontend]:        Refreshing wine downloader releases
+(20:03:29) INFO:    [WineDownloader]:  Updating wine versions info
+(20:03:29) INFO:    [WineDownloader]:  Fetching upstream information...
+(20:03:34) INFO:    [Legendary]:       Getting more details with 'legendary info'
+(20:03:34) INFO:    [Legendary]:       Getting more details with 'legendary info'
+(20:03:34) DEBUG:   [Backend]:         {"free":330950561792,"diskSize":475088220160,"message":"308.22 GiB / 442.46 GiB","validPath":true}
+(20:03:34) DEBUG:   [Backend]:         {"free":330950561792,"diskSize":475088220160,"message":"308.22 GiB / 442.46 GiB","validPath":true}
+(20:03:34) INFO:    [Legendary]:       Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --pretty-json info Sugar --platform Windows --json
+(20:03:35) INFO:    [Legendary]:       Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --pretty-json info Sugar --platform Windows --json
+(20:03:37) INFO:    [WineDownloader]:  wine versions updated
+(20:03:37) ERROR:   [Legendary]:       Error Getting Info from Epic API
+(20:03:37) DEBUG:   [Backend]:         {"free":330950549504,"diskSize":475088220160,"message":"308.22 GiB / 442.46 GiB","validPath":true}
+(20:03:38) ERROR:   [Backend]:         SyntaxError: Unexpected end of JSON input

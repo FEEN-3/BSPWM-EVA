@@ -1,0 +1,115 @@
+{
+	"library": [
+		{
+			"app_name": "Catnip",
+			"art_cover": "https://cdn1.epicgames.com/catnip/item/BL3Wide_2560x1440-2560x1440-462318f36bee20de4412e111ef72dc62.jpg",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/catnip/item/BL3Tall_1200x1440-1200x1440-c1200ae70b5e054025e296746d1987a8.jpg",
+			"cloud_save_enabled": true,
+			"compatible_apps": [],
+			"developer": "2K Games, Inc.",
+			"extra": {
+				"about": {
+					"description": "Borderlands 3",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "Borderlands3",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "catnip",
+			"is_mac_native": true,
+			"save_folder": "{UserDir}/My Games/Borderlands 3/Saved/SaveGames/{EpicID}/",
+			"title": "Borderlands 3",
+			"canRunOffline": true,
+			"is_linux_native": false,
+			"runner": "legendary",
+			"store_url": "https://www.epicgames.com/store/product/borderlands-3"
+		},
+		{
+			"app_name": "Fortnite",
+			"art_cover": "https://cdn1.epicgames.com/item/fn/21BR_KeyArt_EGS_Launcher_Blade_2560x1440_2560x1440-5335449297e75a6cc7c72ad01609b8e1",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/item/fn/21BR_KeyArt_EGS_Launcher_Blade_1200x1600_1200x1600-fe71ad313dae7c7339dc4a28ed9687fa",
+			"cloud_save_enabled": false,
+			"compatible_apps": [],
+			"developer": "Epic Games",
+			"extra": {
+				"about": {
+					"description": "Battle. Build. Create. Fortnite is the free, always evolving, multiplayer game where you and your friends battle to be the last one standing or collaborate to create your dream Fortnite world. Play both Battle Royale and Fortnite Creative for FREE.",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "Fortnite",
+			"install": {
+				"executable": null,
+				"install_path": null,
+				"install_size": null,
+				"is_dlc": false,
+				"version": null
+			},
+			"is_game": true,
+			"is_installed": false,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "fn",
+			"is_mac_native": true,
+			"save_folder": "",
+			"title": "Fortnite",
+			"canRunOffline": false,
+			"is_linux_native": false,
+			"runner": "legendary",
+			"store_url": "https://www.epicgames.com/store/product/fortnite"
+		},
+		{
+			"app_name": "Sugar",
+			"art_cover": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S1_2560x1440-96ba21c538cda908e69be34b1e539c1a",
+			"art_logo": null,
+			"art_square": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S2_1200x1600-f226d68abff3fb091ce1054a1d30fc23",
+			"cloud_save_enabled": false,
+			"developer": "Psyonix LLC",
+			"extra": {
+				"about": {
+					"description": "Rocket League®",
+					"shortDescription": ""
+				},
+				"reqs": {}
+			},
+			"folder_name": "rocketleague",
+			"install": {
+				"executable": "Binaries/Win64/RocketLeague.exe",
+				"install_path": "/home/ruby/Games/Heroic/rocketleague",
+				"install_size": "22.81 GiB",
+				"is_dlc": false,
+				"version": "BC2_Update38.1+388434",
+				"platform": "Windows"
+			},
+			"is_game": true,
+			"is_installed": true,
+			"is_ue_asset": false,
+			"is_ue_plugin": false,
+			"is_ue_project": false,
+			"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+			"is_mac_native": false,
+			"save_folder": "",
+			"title": "Rocket League®",
+			"canRunOffline": true,
+			"is_linux_native": false,
+			"runner": "legendary",
+			"store_url": "https://www.epicgames.com/store/product/rocket-league"
+		}
+	]
+}

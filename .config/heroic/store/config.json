@@ -1,0 +1,30 @@
+{
+	"general-logs": {
+		"currentLogFile": "/home/ruby/.config/heroic/logs/heroic-2022-09-03T00_04_03.571Z.log",
+		"lastLogFile": "/home/ruby/.config/heroic/logs/heroic-2022-09-02T23_59_05.816Z.log"
+	},
+	"userHome": "/home/ruby",
+	"language": "en",
+	"window-props": {
+		"x": 1336,
+		"y": 37,
+		"width": 1216,
+		"height": 1395
+	},
+	"userInfo": {
+		"account_id": "beb7c3d771a64d14acc6d0f31931caf4",
+		"displayName": "LooseyGooseyfer",
+		"user": "ruby"
+	},
+	"settings": {
+		"altGogdl": ""
+	},
+	"games": {
+		"recent": [
+			{
+				"appName": "Sugar",
+				"title": "Rocket League®"
+			}
+		]
+	}
+}

@@ -1,0 +1,344 @@
+(20:04:03) INFO:    [Legendary]:       Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(20:04:04) INFO:    [Legendary]:       Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(20:04:04) INFO:    [Gog]:             GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(20:04:04) INFO:    [Backend]:         
+
+Heroic Version: 2.4.2 Chopper
+Legendary Version:  0.20.28 Dark Energy (hotfix #2)
+OS: EndeavourOS KERNEL: 5.19.6-arch1-1 ARCH: x64
+CPU: AMD Ryzen 7 5800H with Radeon Graphics @2.92 GOVERNOR: schedutil
+RAM: Total: 13.51 GiB Available: 9.93 GiB
+GRAPHICS: GPU0: NVIDIA GeForce RTX 3050 Laptop GPU VRAM: 4096MB DRIVER: 515.65.01 GPU1: Cezanne VRAM: 512MB DRIVER:  
+PROTOCOL: x11
+
+(20:04:05) WARNING: [Backend]:         Protocol already registered.
+(20:04:05) INFO:    [Backend]:         Checking for new Heroic Updates
+(20:04:05) INFO:    [Frontend]:        Refreshing Library
+(20:04:05) INFO:    [Legendary]:       Refreshing library...
+(20:04:05) INFO:    [Legendary]:       Refreshing Epic Games...
+(20:04:06) INFO:    [Legendary]:       Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list
+(20:04:07) INFO:    [Legendary]:       Updating game list
+(20:04:07) INFO:    [Legendary]:       Game List Updated
+(20:04:07) INFO:    [Legendary]:       Checking for game updates.
+(20:04:07) INFO:    [Legendary]:       Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list-installed --check-updates --tsv
+(20:04:07) INFO:    [Legendary]:       Found 0 game(s) to update
+(20:04:07) INFO:    [Gog]:             Found 0 game(s) to update
+(20:04:08) INFO:    [Backend]:         Downloaded Winetricks
+(20:04:09) DEBUG:   [Legendary]:       Using cached install info
+(20:04:10) INFO:    [Backend]:         AreWeAntiCheatYet data downloaded
+(20:04:11) DEBUG:   [Legendary]:       Using cached install info
+(20:04:11) DEBUG:   [Legendary]:       Using cached install info
+(20:04:11) DEBUG:   [Backend]:         {"free":330950205440,"diskSize":475088220160,"message":"308.22 GiB / 442.46 GiB","validPath":true}
+(20:04:11) DEBUG:   [Backend]:         {"free":330950205440,"diskSize":475088220160,"message":"308.22 GiB / 442.46 GiB","validPath":true}
+(20:04:11) DEBUG:   [Backend]:         {"free":330950205440,"diskSize":475088220160,"message":"308.22 GiB / 442.46 GiB","validPath":true}
+(20:04:20) INFO:    [Backend]:         Writing config for Sugar
+(20:04:20) INFO:    [Backend]:         {
+  "autoInstallDxvk": false,
+  "autoInstallVkd3d": false,
+  "preferSystemLibs": false,
+  "enableFSR": true,
+  "enableResizableBar": true,
+  "nvidiaPrime": true,
+  "enviromentOptions": [],
+  "wrapperOptions": [],
+  "showFps": false,
+  "showMangohud": true,
+  "useGameMode": true,
+  "language": "",
+  "wineVersion": {
+    "bin": "/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/proton",
+    "name": "Proton - GE-Proton7-31",
+    "type": "proton"
+  },
+  "winePrefix": "/home/ruby/Games/Heroic/Prefixes/rocketleague"
+}
+(20:04:20) INFO:    [Backend]:         Preventing machine to sleep
+(20:04:20) DEBUG:   [Legendary]:       Using cached install info
+(20:04:20) DEBUG:   [Legendary]:       Using cached install info
+(20:04:20) INFO:    [Legendary]:       Installing Sugar: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary install Sugar --platform Windows --base-path /home/ruby/Games/Heroic --skip-dlcs --skip-sdl -y
+(20:04:20) DEBUG:   [Legendary]:       Logging to file "/home/ruby/.config/heroic/GamesConfig/Sugar.log"
+(20:04:23) INFO:    [Legendary]:       Progress for Sugar: 0%/0.00MiB/00:00:00
+(20:04:24) INFO:    [Legendary]:       Progress for Sugar: 0.26%/52.35MiB/00:03:45
+(20:04:25) INFO:    [Legendary]:       Progress for Sugar: 0.72%/143.27MiB/00:04:42
+(20:04:26) INFO:    [Legendary]:       Progress for Sugar: 1.26%/249.24MiB/00:04:46
+(20:04:29) INFO:    [Legendary]:       Progress for Sugar: 2.81%/556.99MiB/00:04:38
+(20:04:30) INFO:    [Legendary]:       Progress for Sugar: 3.31%/655.93MiB/00:04:42
+(20:04:31) INFO:    [Legendary]:       Progress for Sugar: 3.85%/763.88MiB/00:04:41
+(20:04:32) INFO:    [Legendary]:       Progress for Sugar: 4.32%/857.83MiB/00:04:45
+(20:04:33) INFO:    [Legendary]:       Progress for Sugar: 4.83%/958.76MiB/00:04:46
+(20:04:34) INFO:    [Legendary]:       Progress for Sugar: 5.39%/1070.70MiB/00:04:45
+(20:04:35) INFO:    [Legendary]:       Progress for Sugar: 5.88%/1166.63MiB/00:04:43
+(20:04:36) INFO:    [Legendary]:       Progress for Sugar: 6.41%/1271.58MiB/00:04:42
+(20:04:37) INFO:    [Legendary]:       Progress for Sugar: 6.92%/1372.49MiB/00:04:41
+(20:04:38) INFO:    [Legendary]:       Progress for Sugar: 7.42%/1473.40MiB/00:04:41
+(20:04:39) INFO:    [Legendary]:       Progress for Sugar: 7.93%/1574.30MiB/00:04:40
+(20:04:40) INFO:    [Legendary]:       Progress for Sugar: 8.38%/1662.29MiB/00:04:39
+(20:04:41) INFO:    [Legendary]:       Progress for Sugar: 8.88%/1762.25MiB/00:04:39
+(20:04:42) INFO:    [Legendary]:       Progress for Sugar: 9.35%/1856.22MiB/00:04:39
+(20:04:43) INFO:    [Legendary]:       Progress for Sugar: 9.85%/1955.13MiB/00:04:36
+(20:04:44) INFO:    [Legendary]:       Progress for Sugar: 10.36%/2056.06MiB/00:04:35
+(20:04:45) INFO:    [Legendary]:       Progress for Sugar: 10.88%/2158.99MiB/00:04:35
+(20:04:46) INFO:    [Legendary]:       Progress for Sugar: 11.35%/2252.96MiB/00:04:36
+(20:04:47) INFO:    [Legendary]:       Progress for Sugar: 11.83%/2347.92MiB/00:04:36
+(20:04:48) INFO:    [Legendary]:       Progress for Sugar: 12.33%/2447.84MiB/00:04:36
+(20:04:54) INFO:    [Legendary]:       Progress for Sugar: 15.29%/3034.61MiB/00:04:26
+(20:04:55) INFO:    [Legendary]:       Progress for Sugar: 15.77%/3129.58MiB/00:04:27
+(20:04:57) INFO:    [Legendary]:       Progress for Sugar: 16.76%/3325.51MiB/00:04:24
+(20:05:00) INFO:    [Legendary]:       Progress for Sugar: 18.24%/3619.31MiB/00:04:23
+(20:05:01) INFO:    [Legendary]:       Progress for Sugar: 18.74%/3720.17MiB/00:04:31
+(20:05:02) INFO:    [Legendary]:       Progress for Sugar: 19.23%/3817.11MiB/00:04:23
+(20:05:03) INFO:    [Legendary]:       Progress for Sugar: 19.68%/3906.05MiB/00:04:18
+(20:05:04) INFO:    [Legendary]:       Progress for Sugar: 20.17%/4003.70MiB/00:04:17
+(20:05:05) INFO:    [Legendary]:       Progress for Sugar: 20.67%/4101.98MiB/00:03:58
+(20:05:06) INFO:    [Legendary]:       Progress for Sugar: 21.14%/4195.23MiB/00:03:50
+(20:05:07) INFO:    [Legendary]:       Progress for Sugar: 21.62%/4291.58MiB/00:03:49
+(20:05:08) INFO:    [Legendary]:       Progress for Sugar: 22.12%/4390.74MiB/00:03:47
+(20:05:09) INFO:    [Legendary]:       Progress for Sugar: 22.65%/4495.63MiB/00:03:43
+(20:05:10) INFO:    [Legendary]:       Progress for Sugar: 23.13%/4591.35MiB/00:03:39
+(20:05:12) INFO:    [Legendary]:       Progress for Sugar: 24.13%/4788.05MiB/00:03:32
+(20:05:13) INFO:    [Legendary]:       Progress for Sugar: 24.57%/4875.47MiB/00:03:28
+(20:05:16) INFO:    [Legendary]:       Progress for Sugar: 25.99%/5158.16MiB/00:03:20
+(20:05:17) INFO:    [Legendary]:       Progress for Sugar: 26.48%/5254.78MiB/00:03:18
+(20:05:18) INFO:    [Legendary]:       Progress for Sugar: 26.98%/5354.44MiB/00:03:16
+(20:05:19) INFO:    [Legendary]:       Progress for Sugar: 27.49%/5456.01MiB/00:03:13
+(20:05:20) INFO:    [Legendary]:       Progress for Sugar: 27.89%/5535.64MiB/00:03:13
+(20:05:21) INFO:    [Legendary]:       Progress for Sugar: 28.4%/5636.10MiB/00:03:11
+(20:05:22) INFO:    [Legendary]:       Progress for Sugar: 28.86%/5727.82MiB/00:03:09
+(20:05:23) INFO:    [Legendary]:       Progress for Sugar: 29.4%/5834.69MiB/00:03:07
+(20:05:24) INFO:    [Legendary]:       Progress for Sugar: 29.86%/5926.85MiB/00:02:56
+(20:05:29) INFO:    [Legendary]:       Progress for Sugar: 32.26%/6402.41MiB/00:02:27
+(20:05:30) INFO:    [Legendary]:       Progress for Sugar: 32.79%/6507.44MiB/00:02:25
+(20:05:31) INFO:    [Legendary]:       Progress for Sugar: 33.27%/6601.93MiB/00:02:17
+(20:05:32) INFO:    [Legendary]:       Progress for Sugar: 33.71%/6689.91MiB/00:02:12
+(20:05:33) INFO:    [Legendary]:       Progress for Sugar: 34.2%/6786.65MiB/00:02:12
+(20:05:34) INFO:    [Legendary]:       Progress for Sugar: 34.68%/6882.54MiB/00:02:08
+(20:05:35) INFO:    [Legendary]:       Progress for Sugar: 35.21%/6986.96MiB/00:02:07
+(20:05:36) INFO:    [Legendary]:       Progress for Sugar: 35.73%/7090.17MiB/00:02:04
+(20:05:37) INFO:    [Legendary]:       Progress for Sugar: 36.21%/7186.59MiB/00:01:53
+(20:05:38) INFO:    [Legendary]:       Progress for Sugar: 36.76%/7294.89MiB/00:01:53
+(20:05:39) INFO:    [Legendary]:       Progress for Sugar: 37.23%/7388.29MiB/00:01:52
+(20:05:40) INFO:    [Legendary]:       Progress for Sugar: 37.77%/7495.66MiB/00:01:50
+(20:05:41) INFO:    [Legendary]:       Progress for Sugar: 38.25%/7591.27MiB/00:01:48
+(20:05:42) INFO:    [Legendary]:       Progress for Sugar: 38.72%/7685.23MiB/00:01:47
+(20:05:43) INFO:    [Legendary]:       Progress for Sugar: 39.19%/7776.77MiB/00:01:45
+(20:05:44) INFO:    [Legendary]:       Progress for Sugar: 39.72%/7882.23MiB/00:01:40
+(20:05:45) INFO:    [Legendary]:       Progress for Sugar: 40.23%/7984.91MiB/00:01:36
+(20:05:46) INFO:    [Legendary]:       Progress for Sugar: 40.72%/8081.18MiB/00:01:31
+(20:05:47) INFO:    [Legendary]:       Progress for Sugar: 41.2%/8176.96MiB/00:01:27
+(20:05:48) INFO:    [Legendary]:       Progress for Sugar: 41.72%/8279.12MiB/00:01:23
+(20:05:49) INFO:    [Legendary]:       Progress for Sugar: 42.14%/8362.76MiB/00:01:20
+(20:05:50) INFO:    [Legendary]:       Progress for Sugar: 42.67%/8468.42MiB/00:01:16
+(20:05:51) INFO:    [Legendary]:       Progress for Sugar: 43.13%/8560.50MiB/00:01:14
+(20:05:52) INFO:    [Legendary]:       Progress for Sugar: 43.61%/8654.27MiB/00:01:13
+(20:05:53) INFO:    [Legendary]:       Progress for Sugar: 44.11%/8754.14MiB/00:01:12
+(20:05:54) INFO:    [Legendary]:       Progress for Sugar: 44.61%/8853.90MiB/00:01:12
+(20:05:55) INFO:    [Legendary]:       Progress for Sugar: 44.98%/8927.34MiB/00:01:12
+(20:05:56) INFO:    [Legendary]:       Progress for Sugar: 45.5%/9029.71MiB/00:01:12
+(20:05:57) INFO:    [Legendary]:       Progress for Sugar: 46.01%/9130.79MiB/00:01:12
+(20:05:58) INFO:    [Legendary]:       Progress for Sugar: 46.46%/9219.64MiB/00:01:12
+(20:05:59) INFO:    [Legendary]:       Progress for Sugar: 46.93%/9313.47MiB/00:01:12
+(20:06:00) INFO:    [Legendary]:       Progress for Sugar: 47.4%/9407.54MiB/00:01:12
+(20:06:01) INFO:    [Legendary]:       Progress for Sugar: 47.92%/9509.82MiB/00:01:12
+(20:06:02) INFO:    [Legendary]:       Progress for Sugar: 48.42%/9609.34MiB/00:01:12
+(20:06:03) INFO:    [Legendary]:       Progress for Sugar: 48.93%/9711.43MiB/00:01:11
+(20:06:04) INFO:    [Legendary]:       Progress for Sugar: 49.4%/9804.21MiB/00:01:11
+(20:06:05) INFO:    [Legendary]:       Progress for Sugar: 49.92%/9906.48MiB/00:01:11
+(20:06:06) INFO:    [Legendary]:       Progress for Sugar: 50.38%/9997.67MiB/00:01:11
+(20:06:07) INFO:    [Legendary]:       Progress for Sugar: 50.9%/10101.57MiB/00:01:11
+(20:06:08) INFO:    [Legendary]:       Progress for Sugar: 51.39%/10198.15MiB/00:01:07
+(20:06:09) INFO:    [Legendary]:       Progress for Sugar: 51.88%/10296.09MiB/00:01:05
+(20:06:10) INFO:    [Legendary]:       Progress for Sugar: 52.3%/10380.42MiB/00:01:05
+(20:06:11) INFO:    [Legendary]:       Progress for Sugar: 52.8%/10479.19MiB/00:01:05
+(20:06:12) INFO:    [Legendary]:       Progress for Sugar: 53.29%/10576.50MiB/00:01:05
+(20:06:13) INFO:    [Legendary]:       Progress for Sugar: 53.79%/10675.56MiB/00:01:05
+(20:06:14) INFO:    [Legendary]:       Progress for Sugar: 54.24%/10764.48MiB/00:01:05
+(20:06:15) INFO:    [Legendary]:       Progress for Sugar: 54.71%/10858.83MiB/00:01:04
+(20:06:16) INFO:    [Legendary]:       Progress for Sugar: 55.15%/10945.15MiB/00:01:04
+(20:06:17) INFO:    [Legendary]:       Progress for Sugar: 55.68%/11051.01MiB/00:01:04
+(20:06:18) INFO:    [Legendary]:       Progress for Sugar: 56.19%/11151.41MiB/00:01:04
+(20:06:19) INFO:    [Legendary]:       Progress for Sugar: 56.68%/11249.44MiB/00:01:03
+(20:06:20) INFO:    [Legendary]:       Progress for Sugar: 57.17%/11346.11MiB/00:01:03
+(20:06:21) INFO:    [Legendary]:       Progress for Sugar: 57.66%/11444.17MiB/00:01:03
+(20:06:22) INFO:    [Legendary]:       Progress for Sugar: 58.19%/11548.68MiB/00:01:02
+(20:06:23) INFO:    [Legendary]:       Progress for Sugar: 58.7%/11650.57MiB/00:01:02
+(20:06:24) INFO:    [Legendary]:       Progress for Sugar: 59.23%/11754.53MiB/00:01:00
+(20:06:25) INFO:    [Legendary]:       Progress for Sugar: 59.71%/11849.76MiB/00:01:00
+(20:06:26) INFO:    [Legendary]:       Progress for Sugar: 60.16%/11940.18MiB/00:01:00
+(20:06:27) INFO:    [Legendary]:       Progress for Sugar: 60.64%/12034.79MiB/00:01:00
+(20:06:28) INFO:    [Legendary]:       Progress for Sugar: 61.14%/12133.12MiB/00:01:00
+(20:06:29) INFO:    [Legendary]:       Progress for Sugar: 61.61%/12227.44MiB/00:00:59
+(20:06:30) INFO:    [Legendary]:       Progress for Sugar: 62.12%/12327.92MiB/00:00:59
+(20:06:31) INFO:    [Legendary]:       Progress for Sugar: 62.61%/12424.76MiB/00:00:59
+(20:06:32) INFO:    [Legendary]:       Progress for Sugar: 63.1%/12522.57MiB/00:00:58
+(20:06:33) INFO:    [Legendary]:       Progress for Sugar: 63.6%/12621.66MiB/00:00:58
+(20:06:34) INFO:    [Legendary]:       Progress for Sugar: 64.06%/12712.73MiB/00:00:58
+(20:06:35) INFO:    [Legendary]:       Progress for Sugar: 64.55%/12811.40MiB/00:00:57
+(20:06:36) INFO:    [Legendary]:       Progress for Sugar: 65.08%/12915.38MiB/00:00:57
+(20:06:37) INFO:    [Legendary]:       Progress for Sugar: 65.63%/13025.64MiB/00:00:56
+(20:06:38) INFO:    [Legendary]:       Progress for Sugar: 66.12%/13121.66MiB/00:00:55
+(20:06:39) INFO:    [Legendary]:       Progress for Sugar: 66.55%/13207.96MiB/00:00:53
+(20:06:40) INFO:    [Legendary]:       Progress for Sugar: 66.99%/13295.31MiB/00:00:52
+(20:06:41) INFO:    [Legendary]:       Progress for Sugar: 67.54%/13403.71MiB/00:00:52
+(20:06:42) INFO:    [Legendary]:       Progress for Sugar: 68%/13496.08MiB/00:00:52
+(20:06:43) INFO:    [Legendary]:       Progress for Sugar: 68.5%/13595.01MiB/00:00:51
+(20:06:44) INFO:    [Legendary]:       Progress for Sugar: 69%/13693.93MiB/00:00:51
+(20:06:45) INFO:    [Legendary]:       Progress for Sugar: 69.48%/13790.08MiB/00:00:51
+(20:06:46) INFO:    [Legendary]:       Progress for Sugar: 69.88%/13869.17MiB/00:00:50
+(20:06:47) INFO:    [Legendary]:       Progress for Sugar: 70.41%/13974.19MiB/00:00:50
+(20:06:48) INFO:    [Legendary]:       Progress for Sugar: 70.92%/14075.25MiB/00:00:49
+(20:06:49) INFO:    [Legendary]:       Progress for Sugar: 71.34%/14158.66MiB/00:00:49
+(20:06:50) INFO:    [Legendary]:       Progress for Sugar: 71.83%/14256.23MiB/00:00:48
+(20:06:51) INFO:    [Legendary]:       Progress for Sugar: 72.32%/14353.20MiB/00:00:48
+(20:06:52) INFO:    [Legendary]:       Progress for Sugar: 72.76%/14440.71MiB/00:00:47
+(20:06:53) INFO:    [Legendary]:       Progress for Sugar: 73.27%/14541.85MiB/00:00:47
+(20:06:54) INFO:    [Legendary]:       Progress for Sugar: 73.7%/14626.96MiB/00:00:44
+(20:06:55) INFO:    [Legendary]:       Progress for Sugar: 74.19%/14722.95MiB/00:00:42
+(20:07:03) INFO:    [Legendary]:       Progress for Sugar: 77.96%/15472.23MiB/00:00:38
+(20:07:04) INFO:    [Legendary]:       Progress for Sugar: 78.41%/15562.32MiB/00:00:38
+(20:07:05) INFO:    [Legendary]:       Progress for Sugar: 78.94%/15667.48MiB/00:00:37
+(20:07:06) INFO:    [Legendary]:       Progress for Sugar: 79.39%/15755.78MiB/00:00:37
+(20:07:07) INFO:    [Legendary]:       Progress for Sugar: 79.85%/15846.88MiB/00:00:36
+(20:07:08) INFO:    [Legendary]:       Progress for Sugar: 80.32%/15939.68MiB/00:00:33
+(20:07:09) INFO:    [Legendary]:       Progress for Sugar: 80.81%/16037.67MiB/00:00:33
+(20:07:10) INFO:    [Legendary]:       Progress for Sugar: 81.32%/16138.92MiB/00:00:32
+(20:07:11) INFO:    [Legendary]:       Progress for Sugar: 81.74%/16222.34MiB/00:00:32
+(20:07:12) INFO:    [Legendary]:       Progress for Sugar: 82.24%/16322.38MiB/00:00:32
+(20:07:13) INFO:    [Legendary]:       Progress for Sugar: 82.76%/16425.25MiB/00:00:31
+(20:07:14) INFO:    [Legendary]:       Progress for Sugar: 83.26%/16523.83MiB/00:00:31
+(20:07:15) INFO:    [Legendary]:       Progress for Sugar: 83.72%/16615.05MiB/00:00:30
+(20:07:16) INFO:    [Legendary]:       Progress for Sugar: 84.26%/16723.18MiB/00:00:30
+(20:07:17) INFO:    [Legendary]:       Progress for Sugar: 84.71%/16812.54MiB/00:00:29
+(20:07:18) INFO:    [Legendary]:       Progress for Sugar: 85.22%/16912.01MiB/00:00:29
+(20:07:19) INFO:    [Legendary]:       Progress for Sugar: 85.62%/16992.98MiB/00:00:28
+(20:07:20) INFO:    [Legendary]:       Progress for Sugar: 86.17%/17100.79MiB/00:00:27
+(20:07:21) INFO:    [Legendary]:       Progress for Sugar: 86.67%/17201.69MiB/00:00:27
+(20:07:22) INFO:    [Legendary]:       Progress for Sugar: 87.17%/17299.13MiB/00:00:26
+(20:07:23) INFO:    [Legendary]:       Progress for Sugar: 87.73%/17410.19MiB/00:00:25
+(20:07:24) INFO:    [Legendary]:       Progress for Sugar: 88.19%/17502.13MiB/00:00:25
+(20:07:25) INFO:    [Legendary]:       Progress for Sugar: 88.65%/17594.53MiB/00:00:24
+(20:07:26) INFO:    [Legendary]:       Progress for Sugar: 89.16%/17695.87MiB/00:00:23
+(20:07:27) INFO:    [Legendary]:       Progress for Sugar: 89.68%/17798.77MiB/00:00:23
+(20:07:28) INFO:    [Legendary]:       Progress for Sugar: 90.16%/17892.46MiB/00:00:22
+(20:07:29) INFO:    [Legendary]:       Progress for Sugar: 90.68%/17997.41MiB/00:00:22
+(20:07:30) INFO:    [Legendary]:       Progress for Sugar: 91.13%/18086.56MiB/00:00:21
+(20:07:31) INFO:    [Legendary]:       Progress for Sugar: 91.57%/18172.85MiB/00:00:21
+(20:07:32) INFO:    [Legendary]:       Progress for Sugar: 91.99%/18256.83MiB/00:00:20
+(20:07:33) INFO:    [Legendary]:       Progress for Sugar: 92.48%/18353.49MiB/00:00:20
+(20:07:34) INFO:    [Legendary]:       Progress for Sugar: 92.97%/18450.99MiB/00:00:19
+(20:07:35) INFO:    [Legendary]:       Progress for Sugar: 93.45%/18547.19MiB/00:00:18
+(20:07:36) INFO:    [Legendary]:       Progress for Sugar: 93.91%/18637.40MiB/00:00:17
+(20:07:37) INFO:    [Legendary]:       Progress for Sugar: 94.42%/18738.60MiB/00:00:15
+(20:07:38) INFO:    [Legendary]:       Progress for Sugar: 94.92%/18838.41MiB/00:00:15
+(20:07:39) INFO:    [Legendary]:       Progress for Sugar: 95.36%/18925.02MiB/00:00:14
+(20:07:40) INFO:    [Legendary]:       Progress for Sugar: 95.89%/19029.59MiB/00:00:13
+(20:07:41) INFO:    [Legendary]:       Progress for Sugar: 96.34%/19120.84MiB/00:00:13
+(20:07:42) INFO:    [Legendary]:       Progress for Sugar: 96.91%/19232.13MiB/00:00:12
+(20:07:43) INFO:    [Legendary]:       Progress for Sugar: 97.34%/19319.24MiB/00:00:10
+(20:07:44) INFO:    [Legendary]:       Progress for Sugar: 97.82%/19412.94MiB/00:00:08
+(20:07:45) INFO:    [Legendary]:       Progress for Sugar: 98.3%/19508.89MiB/00:00:06
+(20:07:46) INFO:    [Legendary]:       Progress for Sugar: 98.73%/19594.13MiB/00:00:05
+(20:07:47) INFO:    [Legendary]:       Progress for Sugar: 99.22%/19692.20MiB/00:00:03
+(20:07:48) INFO:    [Legendary]:       Progress for Sugar: 99.69%/19784.11MiB/00:00:01
+(20:07:49) INFO:    [Legendary]:       Progress for Sugar: 100%/19846.23MiB/00:00:00
+(20:07:50) INFO:    [Backend]:         finished installing
+(20:07:50) INFO:    [Backend]:         operation interrupted
+(20:07:50) INFO:    [Frontend]:        Refreshing Library
+(20:07:50) INFO:    [Legendary]:       Refreshing library...
+(20:07:50) INFO:    [Legendary]:       Updating game list
+(20:07:50) INFO:    [Legendary]:       Game List Updated
+(20:07:50) DEBUG:   [Legendary]:       Using cached install info
+(20:07:50) INFO:    [Legendary]:       Checking if EOS Overlay is enabled: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary eos-overlay info --prefix /home/ruby/Games/Heroic/Prefixes/rocketleague/pfx
+(20:07:50) DEBUG:   [Legendary]:       Using cached install info
+(20:07:55) INFO:    [Legendary]:       Checking for game updates.
+(20:07:55) INFO:    [Legendary]:       Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list-installed --check-updates --tsv
+(20:07:56) INFO:    [Legendary]:       Found 0 game(s) to update
+(20:07:56) DEBUG:   [Legendary]:       Using cached install info
+(20:08:13) INFO:    [Backend]:         Writing config for Sugar
+(20:08:13) INFO:    [Backend]:         {
+  "autoInstallDxvk": false,
+  "autoInstallVkd3d": false,
+  "preferSystemLibs": false,
+  "enableFSR": true,
+  "maxSharpness": 2,
+  "enableResizableBar": true,
+  "language": "",
+  "nvidiaPrime": true,
+  "enviromentOptions": [],
+  "wrapperOptions": [],
+  "savesPath": "",
+  "showFps": false,
+  "showMangohud": true,
+  "targetExe": "",
+  "useGameMode": true,
+  "winePrefix": "/home/ruby/Games/Heroic/Prefixes/rocketleague",
+  "wineVersion": {
+    "bin": "/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/proton",
+    "name": "Proton - GE-Proton7-31",
+    "type": "proton"
+  },
+  "eacRuntime": false,
+  "battlEyeRuntime": false,
+  "gogSaves": []
+}
+(20:08:38) DEBUG:   [Legendary]:       Using cached install info
+(20:08:38) INFO:    [Legendary]:       Checking if EOS Overlay is enabled: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary eos-overlay info --prefix /home/ruby/Games/Heroic/Prefixes/rocketleague/pfx
+(20:08:41) INFO:    [Backend]:         Launching Rocket League® (Sugar)
+(20:08:41) INFO:    [Backend]:         Preventing display from sleep
+(20:08:41) INFO:    [Legendary]:       Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(20:08:41) DEBUG:   [Legendary]:       Using cached install info
+(20:08:48) WARNING: [Backend]:         You are using Proton, this can lead to some bugs. Please do not open issues with bugs related to games
+(20:08:48) DEBUG:   [Legendary]:       Running Wine command: "/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/proton" waitforexitandrun wineboot --init
+(20:08:50) DEBUG:   [Legendary]:       Ran Wine command: "/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/proton" waitforexitandrun wineboot --init
+(20:08:50) INFO:    [Backend]:         Created/Updated Wineprefix at /home/ruby/Games/Heroic/Prefixes/rocketleague
+(20:08:50) WARNING: [Legendary]:       No Steam runtime found
+(20:08:50) INFO:    [Legendary]:       Launching Rocket League®: DRI_PRIME=1 __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia LD_PRELOAD= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/ruby/.steam/steam STEAM_COMPAT_DATA_PATH=/home/ruby/Games/Heroic/Prefixes/rocketleague WINE_FULLSCREEN_FSR=1 WINE_FULLSCREEN_FSR_STRENGTH=2 PROTON_NO_ESYNC=1 PROTON_NO_FSYNC=1 VKD3D_CONFIG=upload_hvv STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-rocketleague PROTON_LOG_DIR=/home/ruby /usr/bin/mangohud --dlsym /usr/bin/gamemoderun /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Sugar --language en --no-wine --wrapper "'/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/proton' run"
+(20:16:42) INFO:    [Frontend]:        Refreshing wine downloader releases
+(20:16:42) INFO:    [WineDownloader]:  Updating wine versions info
+(20:16:42) INFO:    [WineDownloader]:  Fetching upstream information...
+(20:16:44) INFO:    [WineDownloader]:  wine versions updated
+(20:16:46) INFO:    [Backend]:         Stopping Display Power Saver Blocker
+(20:16:46) INFO:    [Frontend]:        Refreshing Library
+(20:16:46) INFO:    [Legendary]:       Refreshing library...
+(20:16:46) INFO:    [Legendary]:       Updating game list
+(20:16:46) INFO:    [Legendary]:       Game List Updated
+(20:16:47) INFO:    [Legendary]:       Checking for game updates.
+(20:16:47) INFO:    [Legendary]:       Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list-installed --check-updates --tsv
+(20:16:48) INFO:    [Legendary]:       Found 0 game(s) to update
+(20:16:54) INFO:    [Backend]:         Writing config for Heroic
+(20:16:54) INFO:    [Backend]:         {
+  "altLegendaryBin": "",
+  "altGogdlBin": "",
+  "addDesktopShortcuts": false,
+  "addStartMenuShortcuts": false,
+  "autoInstallDxvk": false,
+  "autoInstallVkd3d": false,
+  "preferSystemLibs": false,
+  "customWinePaths": [],
+  "checkForUpdatesOnStartup": true,
+  "defaultInstallPath": "/home/ruby/Games/Heroic",
+  "defaultSteamPath": "/home/ruby/.steam/steam",
+  "defaultWinePrefix": "/home/ruby/Games/Heroic/Prefixes",
+  "disableController": false,
+  "egsLinkedPath": "",
+  "maxRecentGames": 5,
+  "maxWorkers": 0,
+  "minimizeOnLaunch": false,
+  "nvidiaPrime": true,
+  "enviromentOptions": [],
+  "wrapperOptions": [],
+  "showFps": false,
+  "showMangohud": true,
+  "showUnrealMarket": false,
+  "useGameMode": true,
+  "wineCrossoverBottle": "Heroic",
+  "winePrefix": "/home/ruby/.wine",
+  "wineVersion": {
+    "bin": "/home/ruby/.local/share/Steam/compatibilitytools.d/GE-Proton7-31/proton",
+    "name": "Proton - GE-Proton7-31",
+    "type": "proton"
+  },
+  "enableFSR": true,
+  "enableResizableBar": true,
+  "eacRuntime": false,
+  "battlEyeRuntime": false
+}
