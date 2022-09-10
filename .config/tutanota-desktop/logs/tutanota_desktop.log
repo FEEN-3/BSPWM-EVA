@@ -1,220 +1,70 @@
-2022-09-01T17:47:57.296Z I "the monkey has been patched"
-2022-09-01T17:47:57.452Z I "version:  ","3.98.24"
-2022-09-01T17:47:57.460Z I "resolving key...","tutanota-vault"
-2022-09-01T17:47:57.466Z I "config up to date"
-2022-09-01T17:47:57.478Z W "key tutanota-vault not found, generating a new one"
-2022-09-01T17:47:57.480Z W "sseInfo corrupted or not present, making sure pushEncSessionKeys and scheduled alarms are cleared"
-2022-09-01T17:47:57.480Z I "Resetting stored state"
-2022-09-01T17:47:57.481Z I "[DesktopWindowManager]","try executing with url:","file:///opt/tutanota-desktop/resources/app.asar/polyfill.js"
-2022-09-01T17:47:57.505Z I "[DesktopWindowManager]","invalidating alarms for all windows"
-2022-09-01T17:47:57.506Z I "scheduling to check sse in",1,"seconds"
-2022-09-01T17:47:57.506Z I "scheduling to check sse in",1,"seconds"
-2022-09-01T17:47:58.507Z I "scheduling to check sse in",10,"seconds"
-2022-09-01T17:47:58.507Z I "sse info not available, skip reconnect"
-2022-09-01T17:47:58.623Z I "[DesktopWindowManager]","execution succeeded in origin:","file://"
-2022-09-01T17:47:58.623Z I "[DesktopWindowManager]","closing window for file://"
-2022-09-01T17:47:58.623Z I "[DesktopWindowManager]","no old local storage to migrate"
-2022-09-01T17:47:58.624Z I "[ApplicationWindow]","webAssetsPath: ","/opt/tutanota-desktop/resources/app.asar"
-2022-09-01T17:47:58.631Z I "[ApplicationWindow]","getting dictionaries from:","https://mail.tutanota.com/desktop//dictionaries/"
-2022-09-01T17:47:58.678Z I "default mailto handler:",true
-2022-09-01T17:47:58.679Z I "Webapp ready"
-2022-09-01T17:47:58.679Z I "no update info on disk, disabling updater."
-2022-09-01T17:47:58.682Z I "/home/ruby/.local/share/applications/tutanota-desktop.desktop does not exist, checking for permission to ask for permission..."
-2022-09-01T17:48:03.064Z I "[ApplicationWindow]","spellcheck-dictionary-download-success","en-US"
-2022-09-01T17:48:03.065Z I "[ApplicationWindow]","spellcheck-dictionary-initialized","en-US"
-2022-09-01T17:48:06.505Z I "updating no_integration blacklist..."
-2022-09-01T17:48:08.509Z I "scheduling to check sse in",10,"seconds"
-2022-09-01T17:48:08.509Z I "sse info not available, skip reconnect"
-2022-09-01T17:48:18.519Z I "scheduling to check sse in",10,"seconds"
-2022-09-01T17:48:18.519Z I "sse info not available, skip reconnect"
-2022-09-01T17:48:28.521Z I "scheduling to check sse in",10,"seconds"
-2022-09-01T17:48:28.522Z I "sse info not available, skip reconnect"
-2022-09-01T17:48:38.522Z I "scheduling to check sse in",10,"seconds"
-2022-09-01T17:48:38.522Z I "sse info not available, skip reconnect"
-2022-09-01T17:48:42.717Z W "sseInfo corrupted or not present, making sure pushEncSessionKeys and scheduled alarms are cleared"
-2022-09-01T17:48:42.717Z I "Resetting stored state"
-2022-09-01T17:48:42.719Z I "[DesktopWindowManager]","invalidating alarms for all windows"
-2022-09-01T17:48:42.719Z I "[DesktopWindowManager]","invalidating alarms for window",2
-2022-09-01T17:48:43.193Z I "storing push identifier"
-2022-09-01T17:48:43.367Z I "scheduling to check sse in",1,"seconds"
-2022-09-01T17:48:43.668Z I "storing push identifier"
-2022-09-01T17:48:44.369Z I "last missed notification check:",{"lastMissedNotificationCheckTime":null}
-2022-09-01T17:48:44.369Z I "scheduling to check sse in",110,"seconds"
-2022-09-01T17:48:44.369Z I "starting sse connection"
-2022-09-01T17:48:44.371Z I "lookup sse request"
-2022-09-01T17:48:44.820Z I "established SSE connection with code",200
-2022-09-01T17:48:44.821Z I "received new timeout:","heartbeatTimeout:240"
-2022-09-01T17:48:44.821Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T17:48:44.821Z I "sse heartbeat",240
-2022-09-01T17:48:44.821Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T17:48:44.876Z I "sse heartbeat",240
-2022-09-01T17:48:44.876Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T17:48:44.877Z I "downloading missed notification"
-2022-09-01T17:48:44.878Z I "lookup"
-2022-09-01T17:48:45.278Z I "missed notification response",200
-2022-09-01T17:48:45.278Z I "dl missed notification response closed"
-2022-09-01T17:48:45.278Z I "MissedNotification is empty"
-2022-09-01T17:48:45.278Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T17:49:51.601Z I "[ApplicationWindow]","closing offline db for N8W1fYU--3-2"
-2022-09-01T17:52:42.235Z I "sse heartbeat",240
-2022-09-01T17:52:42.235Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T17:52:42.235Z I "downloading missed notification"
-2022-09-01T17:52:42.266Z I "lookup"
-2022-09-01T17:52:42.666Z I "missed notification response",200
-2022-09-01T17:52:42.666Z I "dl missed notification response closed"
-2022-09-01T17:52:42.678Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T17:52:44.823Z I "sse heartbeat",240
-2022-09-01T17:52:44.823Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T17:52:46.014Z I "[DesktopWindowManager]","try executing with url:","file:///opt/tutanota-desktop/resources/app.asar/polyfill.js"
-2022-09-01T17:52:46.043Z I "[DesktopWindowManager]","execution succeeded in origin:","file://"
-2022-09-01T17:52:46.043Z I "[DesktopWindowManager]","closing window for file://"
-2022-09-01T17:52:46.043Z I "[DesktopWindowManager]","no old local storage to migrate"
-2022-09-01T17:52:46.044Z I "[ApplicationWindow]","webAssetsPath: ","/opt/tutanota-desktop/resources/app.asar"
-2022-09-01T17:52:46.048Z I "[ApplicationWindow]","getting dictionaries from:","https://mail.tutanota.com/desktop//dictionaries/"
-2022-09-01T17:53:25.113Z I "resolving key...","tutanota-credentials"
-2022-09-01T17:53:25.114Z W "key tutanota-credentials not found, generating a new one"
-2022-09-01T17:53:25.769Z I "storing push identifier"
-2022-09-01T17:54:00.133Z I "sse heartbeat",240
-2022-09-01T17:54:00.133Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T17:54:00.133Z I "downloading missed notification"
-2022-09-01T17:54:00.135Z I "lookup"
-2022-09-01T17:54:00.540Z I "missed notification response",200
-2022-09-01T17:54:00.540Z I "dl missed notification response closed"
-2022-09-01T17:54:00.540Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T17:55:50.179Z I "[ApplicationWindow]","closing offline db for N8W1fYU--3-2"
-2022-09-01T17:56:44.824Z I "sse heartbeat",240
-2022-09-01T17:56:44.824Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T18:00:44.838Z I "sse heartbeat",240
-2022-09-01T18:00:44.838Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T18:04:44.839Z I "sse heartbeat",240
-2022-09-01T18:04:44.839Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T18:08:44.839Z I "sse heartbeat",240
-2022-09-01T18:08:44.839Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T18:12:44.840Z I "sse heartbeat",240
-2022-09-01T18:12:44.840Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T18:16:44.840Z I "sse heartbeat",240
-2022-09-01T18:16:44.840Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T18:20:44.840Z I "sse heartbeat",240
-2022-09-01T18:20:44.840Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T18:24:44.840Z I "sse heartbeat",240
-2022-09-01T18:24:44.840Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T18:28:44.842Z I "sse heartbeat",240
-2022-09-01T18:28:44.842Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T18:32:44.842Z I "sse heartbeat",240
-2022-09-01T18:32:44.842Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T18:36:44.842Z I "sse heartbeat",240
-2022-09-01T18:36:44.842Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T18:40:22.383Z I "sse heartbeat",240
-2022-09-01T18:40:22.384Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T18:40:22.384Z I "downloading missed notification"
-2022-09-01T18:40:22.415Z I "lookup"
-2022-09-01T18:40:22.824Z I "missed notification response",200
-2022-09-01T18:40:22.825Z I "dl missed notification response closed"
-2022-09-01T18:40:22.837Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T18:40:44.846Z I "sse heartbeat",240
-2022-09-01T18:40:44.846Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T18:44:44.842Z I "sse heartbeat",240
-2022-09-01T18:44:44.842Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T18:48:44.842Z I "sse heartbeat",240
-2022-09-01T18:48:44.842Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T18:52:44.843Z I "sse heartbeat",240
-2022-09-01T18:52:44.843Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T18:56:44.843Z I "sse heartbeat",240
-2022-09-01T18:56:44.843Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T19:00:44.844Z I "sse heartbeat",240
-2022-09-01T19:00:44.844Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T19:04:44.856Z I "sse heartbeat",240
-2022-09-01T19:04:44.856Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T19:08:44.859Z I "sse heartbeat",240
-2022-09-01T19:08:44.859Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T19:12:44.859Z I "sse heartbeat",240
-2022-09-01T19:12:44.859Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T19:16:44.858Z I "sse heartbeat",240
-2022-09-01T19:16:44.858Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T19:20:44.859Z I "sse heartbeat",240
-2022-09-01T19:20:44.860Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T19:24:44.859Z I "sse heartbeat",240
-2022-09-01T19:24:44.859Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T19:28:44.859Z I "sse heartbeat",240
-2022-09-01T19:28:44.859Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T19:32:44.973Z I "sse heartbeat",240
-2022-09-01T19:32:44.973Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T19:36:44.972Z I "sse heartbeat",240
-2022-09-01T19:36:44.972Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T19:40:44.972Z I "sse heartbeat",240
-2022-09-01T19:40:44.972Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T19:44:44.973Z I "sse heartbeat",240
-2022-09-01T19:44:44.973Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T19:48:44.974Z I "sse heartbeat",240
-2022-09-01T19:48:44.974Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T19:52:44.973Z I "sse heartbeat",240
-2022-09-01T19:52:44.973Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T19:56:44.973Z I "sse heartbeat",240
-2022-09-01T19:56:44.973Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T20:00:44.975Z I "sse heartbeat",240
-2022-09-01T20:00:44.975Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T20:04:44.975Z I "sse heartbeat",240
-2022-09-01T20:04:44.975Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T20:08:44.975Z I "sse heartbeat",240
-2022-09-01T20:08:44.975Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T20:12:44.975Z I "sse heartbeat",240
-2022-09-01T20:12:44.976Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T20:16:44.975Z I "sse heartbeat",240
-2022-09-01T20:16:44.975Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T20:20:44.976Z I "sse heartbeat",240
-2022-09-01T20:20:44.976Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T20:24:44.975Z I "sse heartbeat",240
-2022-09-01T20:24:44.975Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T20:28:44.975Z I "sse heartbeat",240
-2022-09-01T20:28:44.976Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T20:32:44.977Z I "sse heartbeat",240
-2022-09-01T20:32:44.977Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T20:36:44.976Z I "sse heartbeat",240
-2022-09-01T20:36:44.976Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T20:40:44.977Z I "sse heartbeat",240
-2022-09-01T20:40:44.977Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T20:44:44.977Z I "sse heartbeat",240
-2022-09-01T20:44:44.977Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T20:48:44.977Z I "sse heartbeat",240
-2022-09-01T20:48:44.977Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T20:52:44.978Z I "sse heartbeat",240
-2022-09-01T20:52:44.978Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T20:56:44.978Z I "sse heartbeat",240
-2022-09-01T20:56:44.978Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T21:00:44.978Z I "sse heartbeat",240
-2022-09-01T21:00:44.978Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T21:04:44.978Z I "sse heartbeat",240
-2022-09-01T21:04:44.978Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T21:08:44.979Z I "sse heartbeat",240
-2022-09-01T21:08:44.979Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T21:12:44.979Z I "sse heartbeat",240
-2022-09-01T21:12:44.979Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T21:16:44.979Z I "sse heartbeat",240
-2022-09-01T21:16:44.979Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T21:20:44.980Z I "sse heartbeat",240
-2022-09-01T21:20:44.980Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T21:24:44.979Z I "sse heartbeat",240
-2022-09-01T21:24:44.979Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T21:28:44.980Z I "sse heartbeat",240
-2022-09-01T21:28:44.980Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T21:32:44.980Z I "sse heartbeat",240
-2022-09-01T21:32:44.980Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T21:36:44.979Z I "sse heartbeat",240
-2022-09-01T21:36:44.979Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T21:40:44.980Z I "sse heartbeat",240
-2022-09-01T21:40:44.980Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T21:44:44.980Z I "sse heartbeat",240
-2022-09-01T21:44:44.980Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T21:46:49.830Z I "[DesktopWindowManager]","try executing with url:","file:///opt/tutanota-desktop/resources/app.asar/polyfill.js"
-2022-09-01T21:46:49.862Z I "[DesktopWindowManager]","execution succeeded in origin:","file://"
-2022-09-01T21:46:49.862Z I "[DesktopWindowManager]","closing window for file://"
-2022-09-01T21:46:49.862Z I "[DesktopWindowManager]","no old local storage to migrate"
-2022-09-01T21:46:49.862Z I "[ApplicationWindow]","webAssetsPath: ","/opt/tutanota-desktop/resources/app.asar"
-2022-09-01T21:46:49.869Z I "[ApplicationWindow]","getting dictionaries from:","https://mail.tutanota.com/desktop//dictionaries/"
-2022-09-01T21:46:49.999Z I "resolving key...","tutanota-credentials"
-2022-09-01T21:46:51.234Z I "storing push identifier"
-2022-09-01T21:46:58.063Z I "[ApplicationWindow]","closing offline db for N8W1fYU--3-2"
-2022-09-01T21:48:44.981Z I "sse heartbeat",240
-2022-09-01T21:48:44.981Z I "scheduling to check sse in",288,"seconds"
-2022-09-01T21:52:44.983Z I "sse heartbeat",240
-2022-09-01T21:52:44.983Z I "scheduling to check sse in",288,"seconds"
+2022-09-09T17:14:59.368Z I "the monkey has been patched"
+2022-09-09T17:14:59.547Z I "version:  ","3.100.0"
+2022-09-09T17:14:59.560Z I "resolving key...","tutanota-vault"
+2022-09-09T17:14:59.561Z I "config up to date"
+2022-09-09T17:14:59.575Z I "[DesktopWindowManager]","try executing with url:","file:///opt/tutanota-desktop/resources/app.asar/polyfill.js"
+2022-09-09T17:14:59.604Z I "scheduling to check sse in",1,"seconds"
+2022-09-09T17:15:00.606Z I "last missed notification check:",{"lastMissedNotificationCheckTime":1662152694817}
+2022-09-09T17:15:00.606Z I "scheduling to check sse in",80,"seconds"
+2022-09-09T17:15:00.606Z I "starting sse connection"
+2022-09-09T17:15:00.646Z I "lookup sse request"
+2022-09-09T17:15:00.729Z I "[DesktopWindowManager]","execution succeeded in origin:","file://"
+2022-09-09T17:15:00.730Z I "[DesktopWindowManager]","closing window for file://"
+2022-09-09T17:15:00.730Z I "[DesktopWindowManager]","no old local storage to migrate"
+2022-09-09T17:15:00.731Z I "[ApplicationWindow]","webAssetsPath: ","/opt/tutanota-desktop/resources/app.asar"
+2022-09-09T17:15:00.736Z I "[ApplicationWindow]","getting dictionaries from:","https://mail.tutanota.com/desktop//dictionaries/"
+2022-09-09T17:15:00.779Z I "default mailto handler:",true
+2022-09-09T17:15:00.779Z I "Webapp ready"
+2022-09-09T17:15:00.779Z I "no update info on disk, disabling updater."
+2022-09-09T17:15:00.783Z I "/home/ruby/.local/share/applications/tutanota-desktop.desktop does not exist, checking for permission to ask for permission..."
+2022-09-09T17:15:00.910Z I "resolving key...","tutanota-credentials"
+2022-09-09T17:15:01.529Z I "established SSE connection with code",200
+2022-09-09T17:15:01.530Z I "received new timeout:","heartbeatTimeout:240"
+2022-09-09T17:15:01.530Z I "scheduling to check sse in",288,"seconds"
+2022-09-09T17:15:01.530Z I "sse heartbeat",240
+2022-09-09T17:15:01.530Z I "scheduling to check sse in",288,"seconds"
+2022-09-09T17:15:01.552Z I "sse heartbeat",240
+2022-09-09T17:15:01.552Z I "scheduling to check sse in",288,"seconds"
+2022-09-09T17:15:01.552Z I "downloading missed notification"
+2022-09-09T17:15:01.554Z I "lookup"
+2022-09-09T17:15:01.985Z I "missed notification response",200
+2022-09-09T17:15:01.986Z I "dl missed notification response closed"
+2022-09-09T17:15:01.987Z I "scheduling to check sse in",288,"seconds"
+2022-09-09T17:15:02.655Z I "storing push identifier"
+2022-09-09T17:19:01.532Z I "sse heartbeat",240
+2022-09-09T17:19:01.532Z I "scheduling to check sse in",288,"seconds"
+2022-09-09T17:19:32.550Z I "[ApplicationWindow]","closing offline db for N8W1fYU--3-2"
+2022-09-09T17:23:01.534Z I "sse heartbeat",240
+2022-09-09T17:23:01.534Z I "scheduling to check sse in",288,"seconds"
+2022-09-09T17:27:01.532Z I "sse heartbeat",240
+2022-09-09T17:27:01.532Z I "scheduling to check sse in",288,"seconds"
+2022-09-09T17:31:01.532Z I "sse heartbeat",240
+2022-09-09T17:31:01.532Z I "scheduling to check sse in",288,"seconds"
+2022-09-09T17:35:01.531Z I "sse heartbeat",240
+2022-09-09T17:35:01.531Z I "scheduling to check sse in",288,"seconds"
+2022-09-09T17:39:01.531Z I "sse heartbeat",240
+2022-09-09T17:39:01.531Z I "scheduling to check sse in",288,"seconds"
+2022-09-09T17:43:01.532Z I "sse heartbeat",240
+2022-09-09T17:43:01.532Z I "scheduling to check sse in",288,"seconds"
+2022-09-09T17:47:01.536Z I "sse heartbeat",240
+2022-09-09T17:47:01.536Z I "scheduling to check sse in",288,"seconds"
+2022-09-09T17:51:01.538Z I "sse heartbeat",240
+2022-09-09T17:51:01.538Z I "scheduling to check sse in",288,"seconds"
+2022-09-09T17:55:01.540Z I "sse heartbeat",240
+2022-09-09T17:55:01.540Z I "scheduling to check sse in",288,"seconds"
+2022-09-09T17:59:01.540Z I "sse heartbeat",240
+2022-09-09T17:59:01.540Z I "scheduling to check sse in",288,"seconds"
+2022-09-09T18:03:01.541Z I "sse heartbeat",240
+2022-09-09T18:03:01.541Z I "scheduling to check sse in",288,"seconds"
+2022-09-09T18:07:01.540Z I "sse heartbeat",240
+2022-09-09T18:07:01.540Z I "scheduling to check sse in",288,"seconds"
+2022-09-09T18:11:01.540Z I "sse heartbeat",240
+2022-09-09T18:11:01.540Z I "scheduling to check sse in",288,"seconds"
+2022-09-09T18:15:01.539Z I "sse heartbeat",240
+2022-09-09T18:15:01.539Z I "scheduling to check sse in",288,"seconds"
+2022-09-09T18:19:01.540Z I "sse heartbeat",240
+2022-09-09T18:19:01.540Z I "scheduling to check sse in",288,"seconds"
+2022-09-09T18:23:01.539Z I "sse heartbeat",240
+2022-09-09T18:23:01.539Z I "scheduling to check sse in",288,"seconds"
+2022-09-09T18:27:01.538Z I "sse heartbeat",240
+2022-09-09T18:27:01.538Z I "scheduling to check sse in",288,"seconds"

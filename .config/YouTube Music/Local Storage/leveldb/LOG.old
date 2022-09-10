@@ -1,3 +1,6 @@
-2022/09/01-13:13:11.647 312a Reusing MANIFEST /home/ruby/.config/YouTube Music/Local Storage/leveldb/MANIFEST-000001
-2022/09/01-13:13:11.648 312a Recovering log #7
-2022/09/01-13:13:11.648 312a Reusing old log /home/ruby/.config/YouTube Music/Local Storage/leveldb/000007.log 
+2022/09/09-21:37:38.437 dcac Reusing MANIFEST /home/ruby/.config/YouTube Music/Local Storage/leveldb/MANIFEST-000001
+2022/09/09-21:37:38.437 dcac Recovering log #19
+2022/09/09-21:37:38.438 dcac Reusing old log /home/ruby/.config/YouTube Music/Local Storage/leveldb/000019.log 
+2022/09/09-21:46:43.815 e392 Level-0 table #24: started
+2022/09/09-21:46:43.833 e392 Level-0 table #24: 14062 bytes OK
+2022/09/09-21:46:43.837 e392 Delete type=0 #19

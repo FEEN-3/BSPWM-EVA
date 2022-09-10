@@ -1,9 +1,9 @@
 {
 	"window-size": {
-		"width": 1920,
-		"height": 1051
+		"width": 1904,
+		"height": 1035
 	},
-	"url": "https://music.youtube.com/watch?v=aQaW7cPM4RM&list=RDTMAK5uy_kset8DisdE7LSD4TNjEVvrKRTmG7a56sY&index=0",
+	"url": "https://music.youtube.com/watch?v=jAoWbx1eohU&list=LM&index=0",
 	"options": {
 		"tray": false,
 		"appVisible": true,
@@ -87,6 +87,9 @@
 		},
 		"lyrics-genius": {
 			"enabled": true
+		},
+		"audio-compressor": {
+			"enabled": true
 		}
 	},
 	"__internal__": {
@@ -96,7 +99,7 @@
 	},
 	"window-maximized": false,
 	"window-position": {
-		"x": 320,
-		"y": 1469
+		"x": 328,
+		"y": 1477
 	}
 }

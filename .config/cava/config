@@ -4,10 +4,10 @@
 [general]
 
 # Smoothing mode. Can be 'normal', 'scientific' or 'waves'. DEPRECATED as of 0.6.0
-; mode = normal
+; mode = scientific
 
 # Accepts only non-negative values.
-; framerate = 60
+ framerate = 60
 
 # 'autosens' will attempt to decrease sensitivity if the bars peak. 1 = on, 0 = off
 # new as of 0.6.0 autosens of low values (dynamic range)
@@ -158,7 +158,7 @@ gradient_count = 2
 gradient_color_1 = '#d17bed'
 gradient_color_2 = '#96eef2'
 
-
+;#d17bed
 
 [smoothing]
 

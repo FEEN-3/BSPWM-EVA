@@ -1,0 +1,8 @@
+2022/09/06-09:46:49.490 1ac2 Creating DB /home/ruby/.config/WebCord/Local Storage/leveldb since it was missing.
+2022/09/06-09:46:49.501 1ac2 Reusing MANIFEST /home/ruby/.config/WebCord/Local Storage/leveldb/MANIFEST-000001
+2022/09/06-09:48:52.490 1abf Level-0 table #5: started
+2022/09/06-09:48:52.498 1abf Level-0 table #5: 505102 bytes OK
+2022/09/06-09:48:52.502 1abf Delete type=0 #3
+2022/09/06-10:42:40.116 2ec0 Level-0 table #7: started
+2022/09/06-10:42:40.141 2ec0 Level-0 table #7: 1105623 bytes OK
+2022/09/06-10:42:40.146 2ec0 Delete type=0 #4
